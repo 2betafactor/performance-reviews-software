@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Performance Reviews Software Simplified
+tagline: How Performance Reviews Software can help you streamline team performance
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Performance management software is a type of employee performance management tool that helps managers and employees track and manage performance. It is a way to ensure that employees are meeting their goals and objectives, and it helps managers to provide feedback to employees on how they can improve.

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Performance Reviews Software",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Our mission is to explain how to use performance reviews software and how it can help you improve your employee performance.",
+    "siteUrl": "https://peoplegoal.com",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@peoplegoal"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-0RLV9HCSQ0"
 }
