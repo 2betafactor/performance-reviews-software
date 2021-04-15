@@ -4,7 +4,7 @@ title: How to improve Performance Reviews for Remote Teams
 slug: /performance-review-improvements
 date: 2021-03-19 12:46
 description: With the increased reliance on remote teams, performance reviews have become more important than ever.
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+featuredImage: /assets/best-practices-performance-reviews.JPG
 ---
 With the increased reliance on remote teams, performance reviews have become more important than ever. The key to a successful performance review process is to ensure that all employees are engaged and feel comfortable in the process. This is especially important for remote workers who may feel disconnected from the organization.
 

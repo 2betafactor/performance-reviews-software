@@ -4,7 +4,7 @@ title: Top best practices for remote performance reviews
 slug: /performance-review-remote-best
 date: 2021-03-13 12:46
 description: In this article we have outlined some of the best practices for remote performance reviews
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+featuredImage: /assets/performance-reviews-for-remote-teams.JPG
 ---
 In this article we have outlined some of the best practices for remote performance reviews
 

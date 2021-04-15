@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Performance Reviews Software Simplified
 tagline: How Performance Reviews Software can help you streamline team performance
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/launch-performance-reviews.JPG
 cta:
   ctaText: Know more
   ctaLink: /about
