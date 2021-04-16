@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Top 48 interview questions to ask your candidates
-slug: top-interview-questions-to-ask-your-candidates
+slug: /top-interview-questions-to-ask-your-candidates
 date: 2021-04-15 16:42
 description: It is important to know what to expect in an interview, to be able
   to prepare what you want to say, and to know how to respond if you are asked a
