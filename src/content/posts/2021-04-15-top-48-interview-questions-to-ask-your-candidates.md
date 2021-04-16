@@ -8,7 +8,7 @@ description: It is important to know what to expect in an interview, to be able
   difficult question.
 featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
-It is important to know what to expect in an interview, to be able to prepare what you want to say, and to know how to respond if you are asked a difficult question. The best job interview questions to ask in an interview are:
+It is important to know what to expect in an interview, [to be able to prepare what you want to say, and to know how to respond if you are asked a difficult question](https://www.indeed.com/career-advice/interviewing/tough-interview-questions-and-answers). The best job interview questions to ask in an interview are:
 
 1. What was your greatest accomplishment at work?
 2. What was the most important thing you learned in your last job?
