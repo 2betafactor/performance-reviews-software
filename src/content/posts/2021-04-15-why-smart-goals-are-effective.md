@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Why Smart Goals are effective
-slug: /blog/why-smart-goals-are-effective
+slug: /why-smart-goals-are-effective
 date: 2021-04-15 16:23
 description: SMART is an acronym that stands for Specific, Measurable,
   Attainable, Realistic and Timely
