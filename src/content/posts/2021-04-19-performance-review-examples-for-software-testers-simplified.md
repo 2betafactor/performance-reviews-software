@@ -5,7 +5,7 @@ slug: /performance-review-examples-for-software-testers-simplified/
 date: 2021-04-19 16:06
 description: We have outlined some performance review examples for software
   tests. Read on to find out more...
-featuredImage: /assets/team-cats.jpg
+featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
 ## **What are your achievements - how should a software tester answer it in annual performance review?**
 
@@ -18,8 +18,6 @@ If you work for a large company, you can mention some of your achievements in th
 For example, you can mention the number of bugs that were fixed, the number of tests that were performed, the number of requirements that were implemented, the number of defects that were found and many other things.
 
 You should be careful when mentioning the number of bugs that were fixed. It is better to mention the number of bugs that were fixed in a specific time period. For example, you can mention the number of bugs that were fixed in one month, or in one week. It is better to mention the number of bugs that were fixed in a specific time period.
-
-![Performance review examples for software testers simplified](/assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg)
 
 If you mention the number of bugs that were fixed in a specific time period, your manager will understand how much work you have done during this time period. You should also mention how much time you spent on each task.
 
