@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Why you need performance reviews for remote teams
-slug: /performance-review-remote-teams
+slug: /performance-review-remote-teams/
 date: 2021-03-13 12:46
 description: There are many benefits to having a remote team, but one of the
   downsides is that you can't always observe their work.
