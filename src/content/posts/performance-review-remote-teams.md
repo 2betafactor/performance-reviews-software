@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How to improve Performance Reviews for Remote Teams
-slug: /performance-review-improvements
+slug: /blog/performance-review-improvements
 date: 2021-03-19 12:46
 description: With the increased reliance on remote teams, performance reviews
   have become more important than ever.
