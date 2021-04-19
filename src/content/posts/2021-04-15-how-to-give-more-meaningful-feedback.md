@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: How to give more meaningful feedback
-slug: /how-to-give-more-meaningful-feedback
+slug: /blog/how-to-give-more-meaningful-feedback
 date: 2021-04-15 16:33
 description: Most feedback is not meaningful. It is either too little or too
   much. Find out here how to give meaningful feedback.
