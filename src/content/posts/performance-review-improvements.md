@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: What is a performance review
-slug: /performance-review-definition
+slug: /performance-review-definition/
 date: 2021-03-13 12:46
 description: A performance review is a process by which an employee's
   performance is evaluated.
