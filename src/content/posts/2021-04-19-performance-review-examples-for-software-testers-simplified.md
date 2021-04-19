@@ -7,7 +7,7 @@ description: We have outlined some performance review examples for software
   tests. Read on to find out more...
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
-## **What are your achievements - how should a software tester answer it in annual performance review?**
+## **As a software tester what you must put in your annual performance review?**
 
 The question is not easy to answer. What are your achievements? There are many ways to answer this question, and the way chosen by you will depend on your experience and the position of the company you work for.
 
