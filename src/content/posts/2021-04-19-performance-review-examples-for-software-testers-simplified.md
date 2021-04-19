@@ -19,7 +19,7 @@ For example, you can mention the number of bugs that were fixed, the number of t
 
 You should be careful when mentioning the number of bugs that were fixed. It is better to mention the number of bugs that were fixed in a specific time period. For example, you can mention the number of bugs that were fixed in one month, or in one week. It is better to mention the number of bugs that were fixed in a specific time period.
 
-![Performance review examples for software testers simplified](/assets/bench-accounting-nvzvopqw0gc-unsplash.jpg)
+![Performance review examples for software testers simplified](/assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg)
 
 If you mention the number of bugs that were fixed in a specific time period, your manager will understand how much work you have done during this time period. You should also mention how much time you spent on each task.
 
