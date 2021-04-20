@@ -40,4 +40,4 @@ A request for proposal (RFP) is a document that describes a project and solicits
 
 A [request for information (RFI)](https://www.iup.edu/procurement/howto/request-for-information-(rfi)/#:~:text=The%20RFI%20is%20a%20solicitation,to%20specific%20requisitions%20for%20items.) is a document that describes a project and solicits input from interested parties.
 
-RFPs are often issued by government entities, such as the National Aeronautics and Space Administration (NASA) or the National Institutes of Health (NIH). They are also used by businesses, such as construction companies, and nonprofit organizations, such as hospitals.
+RFPs are often issued by government entities, such as the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/) or the National Institutes of Health (NIH). They are also used by businesses, such as construction companies, and nonprofit organizations, such as hospitals.
