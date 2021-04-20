@@ -5,7 +5,7 @@ slug: /white-collar-vs-blue-collar/
 date: 2021-04-20 16:06
 description: The old days of the "blue collar" worker are long gone. Today, the
   white collars are slowly becoming the "blue collars"
-featuredImage: https://images.pexels.com/photos/2965258/pexels-photo-2965258.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500
+featuredImage: /assets/bue-collar-white-collar.png
 ---
 ## White-Collar Workers definition
 
