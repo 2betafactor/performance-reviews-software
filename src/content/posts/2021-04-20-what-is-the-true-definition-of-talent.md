@@ -5,7 +5,7 @@ slug: talent-definition-combination-performer
 date: 2021-04-20 15:40
 description: Talent is a combination of natural ability and acquired skills.
   There are many different definitions of talent...
-featuredImage: https://media.giphy.com/media/l46C9OAKUkYwvvuHC/giphy.gif
+featuredImage: /assets/giphy.gif
 ---
 ## Definition of talent
 
