@@ -9,11 +9,11 @@ featuredImage: /assets/bue-collar-white-collar.png
 ---
 ## White-Collar Workers definition
 
-White-Collar Workers are the workers who are employed in the office, usually as professionals, technicians, or administrators. These workers are employed in the office of the company or organization and work on white collar jobs. These workers may be employed in the private sector or government.
+[White-Collar Workers are the workers who are employed in the office, usually as professionals, technicians, or administrators.](https://en.wikipedia.org/wiki/White-collar_worker) These workers are employed in the office of the company or organization and work on white collar jobs. These workers may be employed in the private sector or government.
 
 ## Blue Collar Worker Definition
 
-The term "blue collar" was first used in reference to tradesmen in 1924, and popularized in the 1950s. In the United States, a large portion of blue-collar workers are unionized and vote for left-wing candidates.
+[The term "blue collar" was first used in reference to tradesmen in 1924, and popularized in the 1950s](https://www.hrzone.com/hr-glossary/what-is-blue-collar-worker). In the United States, a large portion of blue-collar workers are unionized and vote for left-wing candidates.
 
 In the United Kingdom and other countries, the term "blue collar" is not used, because it refers to manual labor performed by non-unionized workers. In Australia, it is common for blue-collar workers to be called "trade unionists". This usage is less common in the United States, where it is called "unionized labor".
 
@@ -29,7 +29,7 @@ Because of the nature of blue-collar work, these workers are more likely than ot
 
 ## White Collar vs Blue Collar
 
-White collar vs blue collar refers to a distinction between workers in office-type and workers in manual labor positions. The term white collar refers to the clothing that is worn by office workers. White collar workers wear shirts, ties and jackets. The term blue collar refers to the clothing worn by manual labor workers. Blue collar workers wear denim overalls or other work clothes.
+[White collar vs blue collar refers to a distinction between workers in office-type and workers in manual labor positions](https://resources.workable.com/hr-terms/blue-collar-vs-white-collar-worker). The term white collar refers to the clothing that is worn by office workers. White collar workers wear shirts, ties and jackets. The term blue collar refers to the clothing worn by manual labor workers. Blue collar workers wear denim overalls or other work clothes.
 
 ![White Collar vs Blue Collar](https://media.giphy.com/media/U8GCzn3SWJkziaugx2/giphy.gif)
 
