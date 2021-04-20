@@ -22,7 +22,7 @@ RFPs are often issued by governments and other large organizations that have the
 3. Receiving bids: Bidders respond to the RFP by submitting bids. They may submit a single bid or multiple bids. Bids are typically submitted in writing, electronically, or both.
 4. Evaluating bids: The entity issuing the RFP evaluates each bid received against its criteria for evaluating bids and selects a winner based on these criteria.
 
-![the four steps of the RFP process](https://lh5.googleusercontent.com/yLfIC808JeRAXu5OYj8anV9DqzPwB_GJUFxM-5iGzrOzvgZ97SZgd16x8V4jCsUxDsrpPAi_ENVyA7SP1SCLn310YiV7H_n02Exm1_gU "the four steps of the RFP process")
+![the four steps of the RFP process](https://lh6.googleusercontent.com/H48VVs8voXPrWkRDg0BqWowzvqTWUqVJmu5v3uMx29GxK8YrIQrkuuqt5fjATbcI5Ztl6bd70_m-L9YrwI0M_msXH1euNgNYzPdzwx41 "the four steps of the RFP process")
 
 RFPs are similar to other types of requests for proposals (RFPs), but they differ in several ways:
 
