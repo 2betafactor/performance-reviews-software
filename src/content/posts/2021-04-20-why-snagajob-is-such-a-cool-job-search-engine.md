@@ -6,7 +6,7 @@ date: 2021-04-20 15:24
 description: Snagajob has listings for jobs in customer service, accounting,
   sales, and more. They have jobs located all across the United States and
   Canada.
-featuredImage: https://www.snagajob.com/v2assets/images/facebook_site_share.png
+featuredImage: /assets/snagajob.png
 ---
 [Snagajob.com](http://snagajob.com/) is a job search engine that helps job seekers find their next job. It's not a job board like [Monster.com](http://monster.com/) or [CareerBuilder.com](http://careerbuilder.com/). Instead, it's more of a search engine that allows you to search for jobs by location, company, and job title. If you're looking for a specific job with a specific company, this is the best place to start your search.
 
