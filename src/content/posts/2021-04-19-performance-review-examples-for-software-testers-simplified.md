@@ -1,14 +1,12 @@
 ---
 template: blog-post
-title: Performance review examples for software testers simplified
+title: Its time for your performance review Software Tester what do you do?
 slug: /performance-review-examples-for-software-testers-simplified/
 date: 2021-04-19 16:06
 description: We have outlined some performance review examples for software
   tests. Read on to find out more...
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
-## **Its time for your performance review Software Tester what do you do?**
-
 The question is not easy to answer. [What are your achievements? ](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)There are many ways to answer this question, and the way chosen by you will depend on your experience and the position of the company you work for.
 
 * If you work for a small company, you can mention some of the things you did during the year. You should mention all the important tasks that were completed successfully. You can also mention how much time you spent on each task and whether it was finished on time.
