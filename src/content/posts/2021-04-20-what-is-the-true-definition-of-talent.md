@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: What is the true definition of talent?
-slug: talent-definition-combination-performer
+slug: /talent-definition-combination-performer/
 date: 2021-04-20 15:40
 description: Talent is a combination of natural ability and acquired skills.
   There are many different definitions of talent...
