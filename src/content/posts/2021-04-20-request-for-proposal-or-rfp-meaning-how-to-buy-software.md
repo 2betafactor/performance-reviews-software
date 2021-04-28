@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Request for Proposal or RFP meaning: How to buy software"
+title: "What is an RFP (Request for Proposal): Key tips on how to buy software"
 slug: /request-for-proposal-rfp-meaning/
 date: 2021-04-20 13:45
 description: A request for proposal (RFP) is a document that describes a project
@@ -22,7 +22,17 @@ RFPs are often issued by governments and other large organizations that have the
 3. Receiving bids: Bidders respond to the RFP by submitting bids. They may submit a single bid or multiple bids. Bids are typically submitted in writing, electronically, or both.
 4. Evaluating bids: The entity issuing the RFP evaluates each bid received against its criteria for evaluating bids and selects a winner based on these criteria.
 
-![the four steps of the RFP process](https://lh6.googleusercontent.com/H48VVs8voXPrWkRDg0BqWowzvqTWUqVJmu5v3uMx29GxK8YrIQrkuuqt5fjATbcI5Ztl6bd70_m-L9YrwI0M_msXH1euNgNYzPdzwx41 "the four steps of the RFP process")
+> ### The four steps to an RFP proceess are:
+>
+> ### 1) Preparing the document
+>
+> ### 2) Disseminating the document
+>
+> ### 3) Receiving bids
+>
+> ### 4) Evaluating bids
+
+
 
 RFPs are similar to other types of requests for proposals (RFPs), but they differ in several ways:
 
