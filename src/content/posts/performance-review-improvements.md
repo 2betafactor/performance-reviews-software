@@ -1,13 +1,13 @@
 ---
 template: blog-post
 title: What is a performance review
-slug: /performance-review-definition
+slug: /performance-review-definition/
 date: 2021-03-13 12:46
 description: A performance review is a process by which an employee's
   performance is evaluated.
 featuredImage: /assets/performance-reviews-need.JPG
 ---
-A performance review is a process by which an employee's performance is evaluated. It is usually an annual event at which a manager and their direct reports discuss the employee's performance over the year. It can also be used to evaluate employees on a quarterly or monthly basis. The **[performance review process](https://hbr.org/2016/10/the-performance-management-revolution)** is usually conducted in an interview format, where the manager asks the employee questions about their performance, and the employee responds to these questions.
+A performance review is a process by which an employee's performance is evaluated. It is usually an annual event at which a manager and their direct reports discuss the employee's performance over the year. It can also be used to evaluate employees on a quarterly or monthly basis. The **[performance review process](https://hbr.org/2016/10/the-performance-management-revolution)** is usually conducted in an interview format, where the manager asks the employee [questions about their performance](https://www.projectmanager.com/blog/the-10-best-performance-review-questions-with-examples), and the employee responds to these questions.
 
 ## Here are a few examples of the types of questions you can ask in your performance appraisals:
 
