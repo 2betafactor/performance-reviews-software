@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: What is Project Management? A clear definition
-slug: /what-is-project-management
+slug: /what-is-project-management/
 date: 2021-06-03 14:38
 description: "Project management is the process of planning, organizing,
   directing, and controlling resources to achieve specific goals. "
