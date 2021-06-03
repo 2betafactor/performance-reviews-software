@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: What is organizational development? All you need to know
+title: What is organizational development? Structure and process
 slug: /what-is-organizational-development/
 date: 2021-06-03 14:24
 description: Organisational development is the process used to improve the
