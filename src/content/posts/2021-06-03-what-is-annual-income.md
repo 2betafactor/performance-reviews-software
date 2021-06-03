@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: what is annual income?
+title: What is annual income? The real definition
 slug: /what-is-annual-income/
 date: 2021-06-03 14:04
 description: Annual income is the total value of income earned during a
@@ -26,7 +26,7 @@ Annual income is important because it is used to calculate the following:
 
 Annual income is also important to measure the distribution of income across a population. This is done using income inequality statistics, such as the Gini coefficient.
 
-![why annual income is important](/assets/why-annual-income-is-important.jpg "why annual income is important")
+![Why annual income is important?](/assets/why-annual-income-is-important.jpg "Why annual income is important?")
 
 ## Annual Income vs. Salary
 
