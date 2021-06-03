@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: What is Project Management? A clear definition
+title: What is Project Management? A clear definition for project managers
 slug: /what-is-project-management/
 date: 2021-06-03 14:38
 description: "Project management is the process of planning, organizing,
@@ -19,7 +19,7 @@ The [first project management standard was issued by the US Department of Defens
 
 In the 1980s, project management was recognized as a separate discipline, and the PMP certification was developed. In 1989, the Project Management Institute (PMI) was formed, and the PMBOK was updated in 1994. In 2002, the PMBOK was updated to the third edition.
 
-![What is project management](/assets/what-is-project-management.jpg)
+![What is project management](/assets/what-is-project-management-certification.jpg)
 
 The [PMBOK ](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge)is the most widely recognized standard for project management. It is a guide for project managers, and provides the basis for many other standards and certifications. The PMBOK is a guide that provides general guidelines for managing projects. It provides a process framework that can be used to manage projects in any industry.
 
