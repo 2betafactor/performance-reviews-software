@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Performance Reviews Software Simplified
-tagline: How Performance Reviews Software can help you streamline team performance
-featuredImage: /assets/launch-performance-reviews.JPG
+title: HR Software Consultants
+tagline: We provide consulation and recommendations for HR software
+featuredImage: /assets/performance-reviews-hr-software.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
