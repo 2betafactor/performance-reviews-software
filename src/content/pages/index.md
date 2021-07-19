@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: HR Software Consultants
-tagline: We provide consulation and recommendations for HR software
-featuredImage: /assets/performance-reviews-hr-software.jpg
+title: Performance Review Software simplified
+tagline: We cover all topics employee performance management
+featuredImage: /assets/performance-reviews-hr-software-in-the-cloud.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
