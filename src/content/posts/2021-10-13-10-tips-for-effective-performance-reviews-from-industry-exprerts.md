@@ -37,7 +37,7 @@ Brantner recommends having employees write out their own review, so they can pro
 
 “The best way to make the annual review process more productive is to focus on desired outcomes instead of activities,” says Todd Brown, vice president of sales at Jobvite. “Too often, managers fall into the trap of evaluating an employee based on their activities, when in reality they should be evaluating them based on the results they achieve.”
 
-Brown recommends using a tool like Jobvite to help managers and employees focus on the results they want to see. “This will help employees get the feedback they need to improve, and it will help managers do a better job of coaching their employees,” he says.
+Brown recommends using a tool like Jobvite to help [managers and employees focus on the results they want to see](https://www.performancereviewssoftware.com/performance-based-bonus-all-you-need-to-know/). “This will help employees get the feedback they need to improve, and it will help managers do a better job of coaching their employees,” he says.
 
 ## Have A ‘No-Blame’ Culture
 
@@ -61,7 +61,7 @@ Gerber recommends having annual reviews at the end of each quarter or at the end
 
 “The best way to make the annual review process more productive is to make it a feedback sandwich,” says Chris Perry, CEO of The Human Element. “You should start with positive feedback, then give constructive feedback, and then end with more positive feedback.”
 
-Perry recommends using a tool like Achievers to help managers give more positive feedback. “This will help employees feel more engaged in the process, and it will help them see how their work is impacting the company’s bottom line,” he says.
+Perry recommends using a tool like Achievers to help managers [give more positive feedback](https://www.performancereviewssoftware.com/performance-review-improvements/). “This will help employees feel more engaged in the process, and it will help them see how their work is impacting the company’s bottom line,” he says.
 
 ![](https://media.giphy.com/media/3oKIPaSdscxoQtYlnG/giphy.gif "Employee Appreciation Day")
 
@@ -74,5 +74,7 @@ Moore recommends using a tool like Achievers to give more frequent feedback. “
 ## Make It A Team Effort
 
 “The best way to make the annual review process more productive is to make it a team effort,” says Rebecca Corliss, career expert at TheLadders. “This means that the manager should be working with their team to create goals for the year ahead.”
+
+![](https://media.giphy.com/media/htTRqSrZ5mECbehC28/giphy.gif "Team performance reviews")
 
 Corliss recommends using a tool like Achievers to help managers and employees work together to create goals. “This will help employees feel more engaged in the process, and it will help managers provide more timely feedback on performance,” she says.
