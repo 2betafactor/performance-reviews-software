@@ -11,17 +11,21 @@ Year end is fast approaching and everyone will look to kick off their performanc
 
 We have put together a list of top tips on how to conduct effective performance reviews and make them a success story. Enjoy!
 
-## Get Off The ‘Annual’ Schedule 
+## Get Off The ‘Annual’ Schedule
 
 “If your company still holds annual reviews, you are missing out on a great opportunity to connect with employees,” says Andy Teach, founder of The Adept Blog. “These meetings are great for getting to know your employees, but they are not great for providing feedback.”
 
 Teach recommends using quarterly meetings with employees to provide more frequent feedback. “The more often you provide feedback, the more opportunities you have to help employees grow,” he says.
+
+![](https://media.giphy.com/media/xT5LML4FY3If24Bf0I/giphy.gif "Performance Review Schedule")
 
 ## Make It A Conversation
 
 “Reviews should be more of a conversation than a lecture,” says Josh Tolan, CEO of Brigade. “The best way to do this is to create a culture where everyone is comfortable sharing openly and honestly. The best way to do this is to make sure that your team members are truly engaged in their work.”
 
 Tolan recommends using a tool like Brigade to create a culture of feedback, where team members can provide and receive feedback without feeling like they’re in trouble. “This helps create a culture where everyone is comfortable giving and receiving feedback, and it makes reviews more of a conversation than a lecture,” he says.
+
+![](https://media.giphy.com/media/hsJeDIAI5gdyxyJqCT/giphy.gif "Make It A Conversation")
 
 ## Make It A Two-Way Street
 
@@ -58,6 +62,8 @@ Gerber recommends having annual reviews at the end of each quarter or at the end
 “The best way to make the annual review process more productive is to make it a feedback sandwich,” says Chris Perry, CEO of The Human Element. “You should start with positive feedback, then give constructive feedback, and then end with more positive feedback.”
 
 Perry recommends using a tool like Achievers to help managers give more positive feedback. “This will help employees feel more engaged in the process, and it will help them see how their work is impacting the company’s bottom line,” he says.
+
+![](https://media.giphy.com/media/3oKIPaSdscxoQtYlnG/giphy.gif "Employee Appreciation Day")
 
 ## Give More Frequent Feedback
 
