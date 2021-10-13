@@ -5,6 +5,7 @@ slug: /performance-reviews-tips-for-2021/
 date: 2021-10-13 14:15
 description: 2021 is about to end and its time for the dreaded performance
   reviews. We put together a list of top tips on how to run them.
+featuredImage: /assets/pexels-ivan-samkov-5676679.jpg
 ---
 Year end is fast approaching and everyone will look to kick off their performance reviews. 
 
