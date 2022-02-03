@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Why you need an HRIS in 2021`
+title: "Why you need an HRIS in 2022: Top 10 reasons"
 slug: /hris-human-resources-information-system/
 date: 2022-02-03 11:31
 description: We have put together 10 reasons why you need an HRIS (Human
