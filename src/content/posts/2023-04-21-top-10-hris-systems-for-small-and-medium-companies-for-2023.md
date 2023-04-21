@@ -9,6 +9,8 @@ description: With so many HRIS software options available, it can be
   are best suited for small companies.
 featuredImage: /assets/top-10-hris-systems-for-2023.jpg
 ---
+![]()
+
 Welcome to our comprehensive guide on the top 10 HRIS software solutions for small companies. As a business owner or HR manager, you know how important it is to have a reliable and efficient system in place to manage your employee data, payroll, benefits, and other HR functions. 
 
 With so many HRIS software options available, it can be overwhelming to find the right one for your specific needs. In this article, we've researched and reviewed the top 10 HRIS software solutions that are best suited for small companies. 
@@ -57,6 +59,8 @@ By using this table as a starting point and conducting further research, you can
 ## D﻿etailed overview of t﻿he top 10 HRIS systems for 2023
 
 ## 1. G﻿usto
+
+![Gusto Logo](/assets/gusto-logo.png)
 
 **Overview of Gusto** Gusto is an all-in-one HR and payroll software designed for small businesses. It offers a user-friendly platform with a range of features to streamline HR and payroll processes, from onboarding and benefits administration to time tracking and tax filing. The company was founded in 2011 and has since become a popular HRIS solution for small and medium-sized businesses.
 
