@@ -17,18 +17,116 @@ Our goal is to provide you with the information you need to make an informed dec
 
 The systems we have selected are:
 
-| HRIS System       | Pricing | Features | Ease of Deployment | Maturity | Feedback |
-| ----------------- | ------- | -------- | ------------------ | -------- | -------- |
-| Gusto             | $$      | ++++     | ++++               | ++++     | +++      |
-| Zenefits          | $$      | ++++     | ++++               | +++      | ++++     |
-| Rippling HR       | $$$     | ++++     | ++++               | ++++     | ++++     |
-| BambooHR          | $$$     | ++++     | ++++               | ++++     | +++      |
-| Namely            | $$$     | +++      | ++++               | +++      | +++      |
-| ADP Workforce Now | $$$$    | +++++    | ++++               | +++++    | +++      |
-| Paycor            | $$      | ++++     | ++++               | ++++     | +++      |
-| Paychex Flex      | $$$$    | +++++    | ++++               | +++++    | +++      |
-| Sage HR           | $$$$    | +++      | ++++               | ++++     | ++++     |
-| Workday           | $$$$$   | +++++    | +++++              | +++++    | ++++     |
+```
+<table>
+  <thead>
+    <tr>
+      <th>HRIS System</th>
+      <th>Pricing</th>
+      <th>Features</th>
+      <th>Ease of Deployment</th>
+      <th>Maturity</th>
+      <th>Feedback</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gusto</td>
+      <td>$$</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>+++</td>
+    </tr>
+    <tr>
+      <td>Zenefits</td>
+      <td>$$</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>+++</td>
+      <td>++++</td>
+    </tr>
+    <tr>
+      <td>Rippling HR</td>
+      <td>$$$</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>++++</td>
+    </tr>
+    <tr>
+      <td>BambooHR</td>
+      <td>$$$</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>+++</td>
+    </tr>
+    <tr>
+      <td>Namely</td>
+      <td>$$$</td>
+      <td>+++</td>
+      <td>++++</td>
+      <td>+++</td>
+      <td>++</td>
+    </tr>
+    <tr>
+      <td>ADP Workforce Now</td>
+      <td>$$$$</td>
+      <td>+++++</td>
+      <td>++++</td>
+      <td>+++++</td>
+      <td>++</td>
+    </tr>
+    <tr>
+      <td>Paycor</td>
+      <td>$$</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>+++</td>
+    </tr>
+    <tr>
+      <td>Paychex Flex</td>
+      <td>$$$$</td>
+      <td>+++++</td>
+      <td>++++</td>
+      <td>+++++</td>
+      <td>++</td>
+    </tr>
+    <tr>
+      <td>Sage HR</td>
+      <td>$$$$</td>
+      <td>+++</td>
+      <td>++++</td>
+      <td>++++</td>
+      <td>++++</td>
+    </tr>
+    <tr>
+      <td>Workday</td>
+      <td>$$$$$</td>
+      <td>+++++</td>
+      <td>+++++</td>
+      <td>+++++</td>
+      <td>++++</td>
+    </tr>
+  </tbody>
+</table>
+
+```
+
+| HRIS System          | Pricing | Features | Ease of Deployment | Maturity | Feedback |
+| -------------------- | ------- | -------- | ------------------ | -------- | -------- |
+| Gusto                | $$      | ++++     | ++++               | ++++     | +++      |
+| Zenefits             | $$      | ++++     | ++++               | +++      | ++++     |
+| Rippling HR          | $$$     | ++++     | ++++               | ++++     | ++++     |
+| BambooHR             | $$$     | ++++     | ++++               | ++++     | +++      |
+| Namely               | $$$     | +++      | ++++               | +++      | +++      |
+| ADP Workforce Now    | $$$$    | +++++    | ++++               | +++++    | +++      |
+| Paycor               | $$      | ++++     | ++++               | ++++     | +++      |
+| Paychex Flex         | $$$$    | +++++    | ++++               | +++++    | +++      |
+| Sage HR              | $$$$    | +++      | ++++               | ++++     | ++++     |
+| Workday              | $$$$$   | +++++    | +++++              | +++++    | ++++     |
 
 Note:
 
@@ -123,16 +221,10 @@ Cons:
 
 Rippling HR offers a per-employee-per-month pricing model, with a minimum of five employees. The pricing includes access to all features, including HR, payroll, benefits, and IT management tools. The exact pricing depends on the specific needs of the business, but starts at $8/month per employee for the basic plan, with additional features available at higher price points. Rippling HR also offers a demo and a free trial for new customers.
 
-
-
-
-
 ### C﻿ustomer feedback
 
 * "Rippling HR is a great all-in-one solution for managing HR, payroll, and benefits."
 * "Rippling HR has simplified our HR processes and made it easy to manage all employee information in one place."
-
-
 
 ## 3. BambooHR
 
@@ -166,16 +258,10 @@ Cons:
 
 BambooHR offers a subscription-based pricing model that scales with the size of the business. The exact pricing depends on the number of employees and the features required. BambooHR's pricing starts at $6 per employee per month for the Essentials plan, which includes basic HR features such as applicant tracking, employee database, and reporting. The Advantage plan, which includes additional features such as onboarding and e-signatures, starts at $8 per employee per month. BambooHR also offers a free trial for new customers.
 
-
-
-
-
 ### C﻿ustomer feedback
 
 * "BambooHR has helped us streamline our HR processes and automate tasks. It's been a great addition to our organization."
 * "BambooHR has a simple and user-friendly interface, making it easy to navigate and use."
-
-
 
 ## 4. Zenefits
 
@@ -213,8 +299,6 @@ Zenefits offers three pricing plans: Essentials, Growth, and Zen. The Essentials
 * "Zenefits has streamlined our HR processes and made our lives so much easier."
 * "Zenefits is a comprehensive HR solution that has all the features we need to manage our workforce effectively."
 
-
-
 ## 5. Namely
 
 **Overview of Namely** Namely is a cloud-based HRIS platform designed for mid-sized businesses. It offers a range of HR solutions, including payroll, benefits administration, time and attendance tracking, and performance management. Namely is known for its user-friendly interface and intuitive design, making it easy for HR professionals to manage their employee data and streamline their HR processes.
@@ -251,8 +335,6 @@ Namely offers a pricing model that is based on the size of the business and the 
 * "Namely has been a great HR solution for our company. It has all the features we need and is easy to use."
 * "Namely has helped us manage our workforce more efficiently, and the customer service has been fantastic."
 
-
-
 ## 6. ADP Workforce Now
 
 **Overview of ADP Workforce Now** ADP Workforce Now is a cloud-based HRIS platform designed for businesses of all sizes. It provides a range of HR solutions, including payroll, time and attendance tracking, benefits administration, and talent management. ADP Workforce Now is known for its user-friendly interface, robust features, and excellent customer support.
@@ -285,14 +367,10 @@ Cons:
 
 ADP Workforce Now offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact ADP for a quote. However, the platform's pricing generally starts at $10 per employee per month for the Essential plan, which includes basic HR features such as employee database and time and attendance tracking. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. ADP Workforce Now also offers a free trial for new customers.
 
-
-
 ### C﻿ustomer Feedback
 
 * "ADP Workforce Now is a robust HRIS system that has helped us manage our HR processes more efficiently."
 * "ADP Workforce Now has a great dashboard and reporting features, making it easy to track employee data and insights."
-
-
 
 ## 7. Paycor
 
@@ -369,8 +447,6 @@ Paychex Flex offers a range of pricing plans based on the size of the business a
 * "Paychex Flex has been a great HRIS system for our organization, with its robust features and ease of use."
 * "Paychex Flex has great reporting capabilities and has helped us manage our HR processes more efficiently."
 
-
-
 ## 9. Sage HR
 
 **Overview of Sage HR** Sage HR is a cloud-based HRIS platform that provides HR and people management solutions for businesses of all sizes. The platform offers a range of features that help businesses manage their HR processes and improve employee engagement. Sage HR is known for its user-friendly interface, excellent customer support, and customizable solutions.
@@ -409,10 +485,6 @@ Sage HR offers a range of pricing plans based on the size of the business and th
 * "Sage HR has been a great HR solution for our company, providing us with a comprehensive set of features to manage our workforce."
 * "Sage HR is easy to use, and the platform is customizable, making it a great fit for our organization."
 
-
-
-
-
 ## 10. Workday
 
 **Overview of Workday** Workday is a cloud-based HRIS platform that provides HR, payroll, and financial management solutions for medium to large-sized businesses. The platform is known for its advanced features, ease of use, and scalability. Workday's software is designed to help businesses streamline their HR processes, improve data accuracy, and gain insights into their workforce.
@@ -448,8 +520,6 @@ Workday does not publicly disclose its pricing information, and pricing is custo
 
 * "Workday has been a game-changer for our enterprise, providing us with a single platform to manage our HR processes and data."
 * "Workday is an intuitive and easy-to-use system that has helped us improve our HR processes and gain valuable insights into our workforce."
-
-
 
 ## C﻿onclusion
 
