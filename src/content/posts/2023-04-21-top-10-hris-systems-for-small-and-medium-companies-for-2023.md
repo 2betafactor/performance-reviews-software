@@ -17,116 +17,18 @@ Our goal is to provide you with the information you need to make an informed dec
 
 The systems we have selected are:
 
-```
-<table>
-  <thead>
-    <tr>
-      <th>HRIS System</th>
-      <th>Pricing</th>
-      <th>Features</th>
-      <th>Ease of Deployment</th>
-      <th>Maturity</th>
-      <th>Feedback</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Gusto</td>
-      <td>$$</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>+++</td>
-    </tr>
-    <tr>
-      <td>Zenefits</td>
-      <td>$$</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>+++</td>
-      <td>++++</td>
-    </tr>
-    <tr>
-      <td>Rippling HR</td>
-      <td>$$$</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>++++</td>
-    </tr>
-    <tr>
-      <td>BambooHR</td>
-      <td>$$$</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>+++</td>
-    </tr>
-    <tr>
-      <td>Namely</td>
-      <td>$$$</td>
-      <td>+++</td>
-      <td>++++</td>
-      <td>+++</td>
-      <td>++</td>
-    </tr>
-    <tr>
-      <td>ADP Workforce Now</td>
-      <td>$$$$</td>
-      <td>+++++</td>
-      <td>++++</td>
-      <td>+++++</td>
-      <td>++</td>
-    </tr>
-    <tr>
-      <td>Paycor</td>
-      <td>$$</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>+++</td>
-    </tr>
-    <tr>
-      <td>Paychex Flex</td>
-      <td>$$$$</td>
-      <td>+++++</td>
-      <td>++++</td>
-      <td>+++++</td>
-      <td>++</td>
-    </tr>
-    <tr>
-      <td>Sage HR</td>
-      <td>$$$$</td>
-      <td>+++</td>
-      <td>++++</td>
-      <td>++++</td>
-      <td>++++</td>
-    </tr>
-    <tr>
-      <td>Workday</td>
-      <td>$$$$$</td>
-      <td>+++++</td>
-      <td>+++++</td>
-      <td>+++++</td>
-      <td>++++</td>
-    </tr>
-  </tbody>
-</table>
-
-```
-
-| HRIS System          | Pricing | Features | Ease of Deployment | Maturity | Feedback |
-| -------------------- | ------- | -------- | ------------------ | -------- | -------- |
-| Gusto                | $$      | ++++     | ++++               | ++++     | +++      |
-| Zenefits             | $$      | ++++     | ++++               | +++      | ++++     |
-| Rippling HR          | $$$     | ++++     | ++++               | ++++     | ++++     |
-| BambooHR             | $$$     | ++++     | ++++               | ++++     | +++      |
-| Namely               | $$$     | +++      | ++++               | +++      | +++      |
-| ADP Workforce Now    | $$$$    | +++++    | ++++               | +++++    | +++      |
-| Paycor               | $$      | ++++     | ++++               | ++++     | +++      |
-| Paychex Flex         | $$$$    | +++++    | ++++               | +++++    | +++      |
-| Sage HR              | $$$$    | +++      | ++++               | ++++     | ++++     |
-| Workday              | $$$$$   | +++++    | +++++              | +++++    | ++++     |
+| HRIS System       | Pricing | Features | Ease of Deployment | Maturity | Feedback |
+| ----------------- | ------- | -------- | ------------------ | -------- | -------- |
+| Gusto             | $$      | ++++     | ++++               | ++++     | +++      |
+| Zenefits          | $$      | ++++     | ++++               | +++      | ++++     |
+| Rippling HR       | $$$     | ++++     | ++++               | ++++     | ++++     |
+| BambooHR          | $$$     | ++++     | ++++               | ++++     | +++      |
+| Namely            | $$$     | +++      | ++++               | +++      | +++      |
+| ADP Workforce Now | $$$$    | +++++    | ++++               | +++++    | +++      |
+| Paycor            | $$      | ++++     | ++++               | ++++     | +++      |
+| Paychex Flex      | $$$$    | +++++    | ++++               | +++++    | +++      |
+| Sage HR           | $$$$    | +++      | ++++               | ++++     | ++++     |
+| Workday           | $$$$$   | +++++    | +++++              | +++++    | ++++     |
 
 Note:
 
