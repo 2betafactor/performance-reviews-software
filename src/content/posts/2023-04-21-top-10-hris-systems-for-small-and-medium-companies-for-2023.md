@@ -89,7 +89,7 @@ Cons:
 
 Gusto offers three pricing plans: Core, Complete, and Concierge. The Core plan starts at $39/month plus $6/month per employee, and includes payroll and employee self-service. The Complete plan starts at $39/month plus $12/month per employee, and adds HR tools such as employee surveys and document storage. The Concierge plan starts at $149/month plus $12/month per employee, and offers additional support for HR compliance and certified HR advisors. Gusto also offers a one-month free trial for new customers.
 
-### C﻿ustomer feedback
+**W﻿hat people say about Gusto**
 
 * "Gusto is a game-changer for small businesses. It's easy to use and has all the features we need."
 * "Gusto has made our payroll and benefits management process so much easier. It's a fantastic tool!"
@@ -127,7 +127,7 @@ Cons:
 
 Rippling HR offers a per-employee-per-month pricing model, with a minimum of five employees. The pricing includes access to all features, including HR, payroll, benefits, and IT management tools. The exact pricing depends on the specific needs of the business, but starts at $8/month per employee for the basic plan, with additional features available at higher price points. Rippling HR also offers a demo and a free trial for new customers.
 
-
+**W﻿hat people say about Rippling**
 
 * "Rippling HR is a great all-in-one solution for managing HR, payroll, and benefits."
 * "Rippling HR has simplified our HR processes and made it easy to manage all employee information in one place."
@@ -166,7 +166,7 @@ Cons:
 
 BambooHR offers a subscription-based pricing model that scales with the size of the business. The exact pricing depends on the number of employees and the features required. BambooHR's pricing starts at $6 per employee per month for the Essentials plan, which includes basic HR features such as applicant tracking, employee database, and reporting. The Advantage plan, which includes additional features such as onboarding and e-signatures, starts at $8 per employee per month. BambooHR also offers a free trial for new customers.
 
-
+**W﻿hat people say about BambooHR**
 
 * "BambooHR has helped us streamline our HR processes and automate tasks. It's been a great addition to our organization."
 * "BambooHR has a simple and user-friendly interface, making it easy to navigate and use."
@@ -204,7 +204,7 @@ Cons:
 
 Zenefits offers three pricing plans: Essentials, Growth, and Zen. The Essentials plan starts at $8/month per employee, and includes HR and benefits administration features. The Growth plan starts at $14/month per employee, and adds time and attendance tracking and payroll features. The Zen plan is a customized plan with pricing based on the specific needs of the business. Zenefits also offers a free demo and a 14-day free trial for new customers.
 
-
+**W﻿hat people say about Zenefits**
 
 * "Zenefits has streamlined our HR processes and made our lives so much easier."
 * "Zenefits is a comprehensive HR solution that has all the features we need to manage our workforce effectively."
@@ -242,7 +242,7 @@ Cons:
 
 Namely offers a pricing model that is based on the size of the business and the specific features required. Pricing starts at $15 per employee per month for the Essential plan, which includes basic HR features such as employee database and time and attendance tracking. The platform's Performance and Growth plans, which include additional features such as performance management and benefits administration, are priced at $25 and $40 per employee per month, respectively. Namely also offers a demo and a free trial for new customers.
 
-
+**W﻿hat people say about ADP**
 
 * "Namely has been a great HR solution for our company. It has all the features we need and is easy to use."
 * "Namely has helped us manage our workforce more efficiently, and the customer service has been fantastic."
@@ -281,7 +281,7 @@ Cons:
 
 ADP Workforce Now offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact ADP for a quote. However, the platform's pricing generally starts at $10 per employee per month for the Essential plan, which includes basic HR features such as employee database and time and attendance tracking. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. ADP Workforce Now also offers a free trial for new customers.
 
-
+**W﻿hat people say about ADP**
 
 * "ADP Workforce Now is a robust HRIS system that has helped us manage our HR processes more efficiently."
 * "ADP Workforce Now has a great dashboard and reporting features, making it easy to track employee data and insights."
@@ -320,7 +320,7 @@ Cons:
 
 Paycor offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Paycor for a quote. However, the platform's pricing generally starts at $99 per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. Paycor also offers a free trial for new customers.
 
-
+**W﻿hat people say about Paycor**
 
 * "Paycor has helped us streamline our HR processes, from onboarding to payroll management."
 * "Paycor has a great customer service team, and the platform is user-friendly, making it easy to use and navigate."
@@ -360,7 +360,7 @@ Cons:
 
 Paychex Flex offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Paychex Flex for a quote. However, the platform's pricing generally starts at $59 per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. Paychex Flex also offers a free trial for new customers.
 
-
+**W﻿hat people say about Paychex Flex**
 
 * "Paychex Flex has been a great HRIS system for our organization, with its robust features and ease of use."
 * "Paychex Flex has great reporting capabilities and has helped us manage our HR processes more efficiently."
@@ -400,7 +400,7 @@ Cons:
 
 Sage HR offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Sage HR for a quote. However, the platform's pricing generally starts at $10 per user per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as recruitment management and benefits administration, are priced accordingly. Sage HR also offers a free trial for new customers.
 
-
+**W﻿hat people say about Sage HR**
 
 * "Sage HR has been a great HR solution for our company, providing us with a comprehensive set of features to manage our workforce."
 * "Sage HR is easy to use, and the platform is customizable, making it a great fit for our organization."
@@ -438,7 +438,7 @@ Cons:
 
 Workday does not publicly disclose its pricing information, and pricing is customized for each business based on their specific needs and requirements. However, the platform's pricing generally starts at $100 per user per year for its basic human capital management package, which includes features such as recruiting, onboarding, and performance management. The platform's payroll and financial management packages are priced separately. Workday also offers a free trial for new customers.
 
-
+**W﻿hat people say about Workday**
 
 * "Workday has been a game-changer for our enterprise, providing us with a single platform to manage our HR processes and data."
 * "Workday is an intuitive and easy-to-use system that has helped us improve our HR processes and gain valuable insights into our workforce."
