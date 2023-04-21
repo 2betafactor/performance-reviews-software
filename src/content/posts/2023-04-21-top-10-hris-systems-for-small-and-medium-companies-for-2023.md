@@ -93,7 +93,7 @@ Cons:
 
 **Pricing** 
 
-Gusto offers three pricing plans: Core, Complete, and Concierge. The Core plan starts at $39/month plus $6/month per employee, and includes payroll and employee self-service. The Complete plan starts at $39/month plus $12/month per employee, and adds HR tools such as employee surveys and document storage. The Concierge plan starts at $149/month plus $12/month per employee, and offers additional support for HR compliance and certified HR advisors. Gusto also offers a one-month free trial for new customers.
+[Gusto offers three pricing plans](https://gusto.com/product/pricing): Core, Complete, and Concierge. The Core plan starts at $39/month plus $6/month per employee, and includes payroll and employee self-service. The Complete plan starts at $39/month plus $12/month per employee, and adds HR tools such as employee surveys and document storage. The Concierge plan starts at $149/month plus $12/month per employee, and offers additional support for HR compliance and certified HR advisors. Gusto also offers a one-month free trial for new customers.
 
 **W﻿hat people say about Gusto**
 
@@ -133,7 +133,7 @@ Cons:
 
 **Pricing** 
 
-Rippling HR offers a per-employee-per-month pricing model, with a minimum of five employees. The pricing includes access to all features, including HR, payroll, benefits, and IT management tools. The exact pricing depends on the specific needs of the business, but starts at $8/month per employee for the basic plan, with additional features available at higher price points. Rippling HR also offers a demo and a free trial for new customers.
+Rippling HR offers a [per-employee-per-month pricing model](https://www.rippling.com/pricing), with a minimum of five employees. The pricing includes access to all features, including HR, payroll, benefits, and IT management tools. The exact pricing depends on the specific needs of the business, but starts at $8/month per employee for the basic plan, with additional features available at higher price points. Rippling HR also offers a demo and a free trial for new customers.
 
 **W﻿hat people say about Rippling**
 
@@ -174,7 +174,7 @@ Cons:
 
 **Pricing** 
 
-BambooHR offers a subscription-based pricing model that scales with the size of the business. The exact pricing depends on the number of employees and the features required. BambooHR's pricing starts at $6 per employee per month for the Essentials plan, which includes basic HR features such as applicant tracking, employee database, and reporting. The Advantage plan, which includes additional features such as onboarding and e-signatures, starts at $8 per employee per month. BambooHR also offers a free trial for new customers.
+BambooHR offers a [subscription-based pricing model](https://www.bamboohr.com/pricing/) that scales with the size of the business. The exact pricing depends on the number of employees and the features required. BambooHR's pricing starts at $6 per employee per month for the Essentials plan, which includes basic HR features such as applicant tracking, employee database, and reporting. The Advantage plan, which includes additional features such as onboarding and e-signatures, starts at $8 per employee per month. BambooHR also offers a free trial for new customers.
 
 **W﻿hat people say about BambooHR**
 
@@ -214,7 +214,7 @@ Cons:
 
 **Pricing** 
 
-Zenefits offers three pricing plans: Essentials, Growth, and Zen. The Essentials plan starts at $8/month per employee, and includes HR and benefits administration features. The Growth plan starts at $14/month per employee, and adds time and attendance tracking and payroll features. The Zen plan is a customized plan with pricing based on the specific needs of the business. Zenefits also offers a free demo and a 14-day free trial for new customers.
+Zenefits offers three pricing plans: [Essentials, Growth, and Zen](https://www.zenefits.com/pricing/). The Essentials plan starts at $8/month per employee, and includes HR and benefits administration features. The Growth plan starts at $14/month per employee, and adds time and attendance tracking and payroll features. The Zen plan is a customized plan with pricing based on the specific needs of the business. Zenefits also offers a free demo and a 14-day free trial for new customers.
 
 **W﻿hat people say about Zenefits**
 
@@ -254,7 +254,7 @@ Cons:
 
 **Pricing** 
 
-Namely offers a pricing model that is based on the size of the business and the specific features required. Pricing starts at $15 per employee per month for the Essential plan, which includes basic HR features such as employee database and time and attendance tracking. The platform's Performance and Growth plans, which include additional features such as performance management and benefits administration, are priced at $25 and $40 per employee per month, respectively. Namely also offers a demo and a free trial for new customers.
+[Namely offers a pricing model](https://www.namely.com/pricing/) that is based on the size of the business and the specific features required. Pricing starts at $15 per employee per month for the Essential plan, which includes basic HR features such as employee database and time and attendance tracking. The platform's Performance and Growth plans, which include additional features such as performance management and benefits administration, are priced at $25 and $40 per employee per month, respectively. Namely also offers a demo and a free trial for new customers.
 
 **W﻿hat people say about ADP**
 
@@ -295,7 +295,7 @@ Cons:
 
 **Pricing** 
 
-ADP Workforce Now offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact ADP for a quote. However, the platform's pricing generally starts at $10 per employee per month for the Essential plan, which includes basic HR features such as employee database and time and attendance tracking. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. ADP Workforce Now also offers a free trial for new customers.
+[ADP Workforce Now offers](https://www.adp.com/pricing/adp-workforce-now) a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact ADP for a quote. However, the platform's pricing generally starts at $10 per employee per month for the Essential plan, which includes basic HR features such as employee database and time and attendance tracking. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. ADP Workforce Now also offers a free trial for new customers.
 
 **W﻿hat people say about ADP**
 
@@ -336,7 +336,7 @@ Cons:
 
 **Pricing** 
 
-Paycor offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Paycor for a quote. However, the platform's pricing generally starts at $99 per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. Paycor also offers a free trial for new customers.
+Paycor offers a range of [pricing plans](https://www.paycor.com/pricing) based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Paycor for a quote. However, the platform's pricing generally starts at $99 per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. Paycor also offers a free trial for new customers.
 
 **W﻿hat people say about Paycor**
 
@@ -378,7 +378,7 @@ Cons:
 
 **Pricing** 
 
-Paychex Flex offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Paychex Flex for a quote. However, the platform's pricing generally starts at $59 per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. Paychex Flex also offers a free trial for new customers.
+[Paychex Flex offers a range of pricing plans](https://www.paychex.com/payroll-taxes/human-resources/human-resources-software/pricing) based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Paychex Flex for a quote. However, the platform's pricing generally starts at $59 per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as payroll and benefits administration, are priced accordingly. Paychex Flex also offers a free trial for new customers.
 
 **W﻿hat people say about Paychex Flex**
 
@@ -420,7 +420,7 @@ Cons:
 
 **Pricing** 
 
-Sage HR offers a range of pricing plans based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Sage HR for a quote. However, the platform's pricing generally starts at $10 per user per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as recruitment management and benefits administration, are priced accordingly. Sage HR also offers a free trial for new customers.
+[Sage HR offers a range of pricing plans](https://www.sage.com/en-us/products/sage-hr/pricing/) based on the size of the business and the specific features required. Pricing is customized for each business, so businesses must contact Sage HR for a quote. However, the platform's pricing generally starts at $10 per user per month for the basic HR package, which includes HR management, time and attendance tracking, and reporting tools. The platform's higher-tiered plans, which include additional features such as recruitment management and benefits administration, are priced accordingly. Sage HR also offers a free trial for new customers.
 
 **W﻿hat people say about Sage HR**
 
@@ -462,7 +462,7 @@ Cons:
 
 **Pricing** 
 
-Workday does not publicly disclose its pricing information, and pricing is customized for each business based on their specific needs and requirements. However, the platform's pricing generally starts at $100 per user per year for its basic human capital management package, which includes features such as recruiting, onboarding, and performance management. The platform's payroll and financial management packages are priced separately. Workday also offers a free trial for new customers.
+[Workday does not publicly disclose its pricing information](https://www.workday.com/en-us/products/hcm/human-capital-management-pricing.html), and pricing is customized for each business based on their specific needs and requirements. However, the platform's pricing generally starts at $100 per user per year for its basic human capital management package, which includes features such as recruiting, onboarding, and performance management. The platform's payroll and financial management packages are priced separately. Workday also offers a free trial for new customers.
 
 **W﻿hat people say about Workday**
 
