@@ -9,8 +9,6 @@ description: With so many HRIS software options available, it can be
   are best suited for small companies.
 featuredImage: /assets/top-10-hris-systems-for-2023.jpg
 ---
-![]()
-
 Welcome to our comprehensive guide on the top 10 HRIS software solutions for small companies. As a business owner or HR manager, you know how important it is to have a reliable and efficient system in place to manage your employee data, payroll, benefits, and other HR functions. 
 
 With so many HRIS software options available, it can be overwhelming to find the right one for your specific needs. In this article, we've researched and reviewed the top 10 HRIS software solutions that are best suited for small companies. 
@@ -60,7 +58,7 @@ By using this table as a starting point and conducting further research, you can
 
 ## 1. G﻿usto
 
-![Gusto Logo](/assets/gusto-logo.png)
+![Gusto](/assets/gusto-logo.png)
 
 **Overview of Gusto** Gusto is an all-in-one HR and payroll software designed for small businesses. It offers a user-friendly platform with a range of features to streamline HR and payroll processes, from onboarding and benefits administration to time tracking and tax filing. The company was founded in 2011 and has since become a popular HRIS solution for small and medium-sized businesses.
 
@@ -136,7 +134,7 @@ Rippling HR offers a per-employee-per-month pricing model, with a minimum of fiv
 
 ## 3. BambooHR
 
-![BambooHR Logo](/assets/bamboohr-logo.png)
+![BambooHR](/assets/bamboohr-logo.png)
 
 **Overview of BambooHR** BambooHR is a cloud-based HRIS platform that provides HR solutions for small and medium-sized businesses. The platform offers an intuitive and easy-to-use interface, as well as a range of features to help HR professionals manage their employee data and streamline their HR processes. BambooHR is known for its user-friendly design and exceptional customer support.
 
@@ -175,7 +173,7 @@ BambooHR offers a subscription-based pricing model that scales with the size of 
 
 ## 4. Zenefits
 
-![Zenefits logo](/assets/zenefits-logo.png)
+![Zenefits](/assets/zenefits-logo.png)
 
 **Overview of Zenefits** Zenefits is a cloud-based HR software that combines HR, payroll, benefits, and time and attendance management. The software automates many of the administrative HR tasks and streamlines compliance requirements, making it a popular choice for small and medium-sized businesses. Zenefits was founded in 2013 and has since grown to become one of the leading HRIS solutions in the market.
 
@@ -213,7 +211,7 @@ Zenefits offers three pricing plans: Essentials, Growth, and Zen. The Essentials
 
 ## 5. Namely
 
-![Namely Logo](/assets/namely-logo.png)
+![Namely](/assets/namely-logo.png)
 
 **Overview of Namely** Namely is a cloud-based HRIS platform designed for mid-sized businesses. It offers a range of HR solutions, including payroll, benefits administration, time and attendance tracking, and performance management. Namely is known for its user-friendly interface and intuitive design, making it easy for HR professionals to manage their employee data and streamline their HR processes.
 
@@ -251,7 +249,7 @@ Namely offers a pricing model that is based on the size of the business and the 
 
 ## 6. ADP Workforce Now
 
-![ADP Logo](/assets/adp-workforce-now-logo.png)
+![ADP](/assets/adp-workforce-now-logo.png)
 
 **Overview of ADP Workforce Now** ADP Workforce Now is a cloud-based HRIS platform designed for businesses of all sizes. It provides a range of HR solutions, including payroll, time and attendance tracking, benefits administration, and talent management. ADP Workforce Now is known for its user-friendly interface, robust features, and excellent customer support.
 
@@ -290,7 +288,7 @@ ADP Workforce Now offers a range of pricing plans based on the size of the busin
 
 ## 7. Paycor
 
-![Paycor Logo](/assets/paycor-logo.png)
+![Paycor](/assets/paycor-logo.png)
 
 **Overview of Paycor** Paycor is a cloud-based HRIS platform that provides HR, payroll, and timekeeping solutions for businesses of all sizes. The platform offers a range of features that streamline HR processes, improve employee engagement, and increase productivity. Paycor is known for its user-friendly interface, excellent customer support, and affordable pricing.
 
@@ -329,7 +327,7 @@ Paycor offers a range of pricing plans based on the size of the business and the
 
 ## 8. Paychex Flex
 
-![Paychex Flex Logo](/assets/paychex-logo.png)
+![Paychex Flex](/assets/paychex-logo.png)
 
 **Overview of Paychex Flex** Paychex Flex is a cloud-based HRIS platform that provides HR, payroll, and benefits administration solutions for businesses of all sizes. The platform offers a range of features that streamline HR processes, improve employee engagement, and increase productivity. Paychex Flex is known for its user-friendly interface, excellent customer support, and robust reporting capabilities.
 
@@ -369,7 +367,7 @@ Paychex Flex offers a range of pricing plans based on the size of the business a
 
 ## 9. Sage HR
 
-![sageHR logo](/assets/sage-hr-logo.png)
+![sage HR](/assets/sage-hr-logo.png)
 
 **Overview of Sage HR** Sage HR is a cloud-based HRIS platform that provides HR and people management solutions for businesses of all sizes. The platform offers a range of features that help businesses manage their HR processes and improve employee engagement. Sage HR is known for its user-friendly interface, excellent customer support, and customizable solutions.
 
@@ -409,7 +407,7 @@ Sage HR offers a range of pricing plans based on the size of the business and th
 
 ## 10. Workday
 
-![workday logo](/assets/workday-logo.png)
+![Workday](/assets/workday-logo.png)
 
 **Overview of Workday** Workday is a cloud-based HRIS platform that provides HR, payroll, and financial management solutions for medium to large-sized businesses. The platform is known for its advanced features, ease of use, and scalability. Workday's software is designed to help businesses streamline their HR processes, improve data accuracy, and gain insights into their workforce.
 
