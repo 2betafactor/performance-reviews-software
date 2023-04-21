@@ -98,6 +98,8 @@ Gusto offers three pricing plans: Core, Complete, and Concierge. The Core plan s
 
 ## 2. R﻿ippling HR
 
+![Rippling](/assets/rippling-logo.png)
+
 **Overview of Rippling HR** Rippling HR is an all-in-one HR and IT management platform designed for small and medium-sized businesses. It offers a comprehensive suite of features to streamline HR processes, from onboarding and payroll to benefits administration and compliance. Additionally, Rippling HR offers IT management tools, such as device and app management, to make it easier for businesses to manage their technology and security needs. The company was founded in 2018 and has quickly become a popular HRIS solution for its robust features and ease of use.
 
 **Key features of Rippling HR**
@@ -133,6 +135,8 @@ Rippling HR offers a per-employee-per-month pricing model, with a minimum of fiv
 * "Rippling HR has simplified our HR processes and made it easy to manage all employee information in one place."
 
 ## 3. BambooHR
+
+![BambooHR Logo](/assets/bamboohr-logo.png)
 
 **Overview of BambooHR** BambooHR is a cloud-based HRIS platform that provides HR solutions for small and medium-sized businesses. The platform offers an intuitive and easy-to-use interface, as well as a range of features to help HR professionals manage their employee data and streamline their HR processes. BambooHR is known for its user-friendly design and exceptional customer support.
 
@@ -171,6 +175,8 @@ BambooHR offers a subscription-based pricing model that scales with the size of 
 
 ## 4. Zenefits
 
+![Zenefits logo](/assets/zenefits-logo.png)
+
 **Overview of Zenefits** Zenefits is a cloud-based HR software that combines HR, payroll, benefits, and time and attendance management. The software automates many of the administrative HR tasks and streamlines compliance requirements, making it a popular choice for small and medium-sized businesses. Zenefits was founded in 2013 and has since grown to become one of the leading HRIS solutions in the market.
 
 **Key features of Zenefits**
@@ -207,6 +213,8 @@ Zenefits offers three pricing plans: Essentials, Growth, and Zen. The Essentials
 
 ## 5. Namely
 
+![Namely Logo](/assets/namely-logo.png)
+
 **Overview of Namely** Namely is a cloud-based HRIS platform designed for mid-sized businesses. It offers a range of HR solutions, including payroll, benefits administration, time and attendance tracking, and performance management. Namely is known for its user-friendly interface and intuitive design, making it easy for HR professionals to manage their employee data and streamline their HR processes.
 
 **Key features of Namely**
@@ -242,6 +250,8 @@ Namely offers a pricing model that is based on the size of the business and the 
 * "Namely has helped us manage our workforce more efficiently, and the customer service has been fantastic."
 
 ## 6. ADP Workforce Now
+
+![ADP Logo](/assets/adp-workforce-now-logo.png)
 
 **Overview of ADP Workforce Now** ADP Workforce Now is a cloud-based HRIS platform designed for businesses of all sizes. It provides a range of HR solutions, including payroll, time and attendance tracking, benefits administration, and talent management. ADP Workforce Now is known for its user-friendly interface, robust features, and excellent customer support.
 
@@ -280,6 +290,8 @@ ADP Workforce Now offers a range of pricing plans based on the size of the busin
 
 ## 7. Paycor
 
+![Paycor Logo](/assets/paycor-logo.png)
+
 **Overview of Paycor** Paycor is a cloud-based HRIS platform that provides HR, payroll, and timekeeping solutions for businesses of all sizes. The platform offers a range of features that streamline HR processes, improve employee engagement, and increase productivity. Paycor is known for its user-friendly interface, excellent customer support, and affordable pricing.
 
 **Key features of Paycor**
@@ -316,6 +328,8 @@ Paycor offers a range of pricing plans based on the size of the business and the
 * "Paycor has a great customer service team, and the platform is user-friendly, making it easy to use and navigate."
 
 ## 8. Paychex Flex
+
+![Paychex Flex Logo](/assets/paychex-logo.png)
 
 **Overview of Paychex Flex** Paychex Flex is a cloud-based HRIS platform that provides HR, payroll, and benefits administration solutions for businesses of all sizes. The platform offers a range of features that streamline HR processes, improve employee engagement, and increase productivity. Paychex Flex is known for its user-friendly interface, excellent customer support, and robust reporting capabilities.
 
@@ -355,6 +369,8 @@ Paychex Flex offers a range of pricing plans based on the size of the business a
 
 ## 9. Sage HR
 
+![sageHR logo](/assets/sage-hr-logo.png)
+
 **Overview of Sage HR** Sage HR is a cloud-based HRIS platform that provides HR and people management solutions for businesses of all sizes. The platform offers a range of features that help businesses manage their HR processes and improve employee engagement. Sage HR is known for its user-friendly interface, excellent customer support, and customizable solutions.
 
 **Key features of Sage HR**
@@ -393,6 +409,8 @@ Sage HR offers a range of pricing plans based on the size of the business and th
 
 ## 10. Workday
 
+![workday logo](/assets/workday-logo.png)
+
 **Overview of Workday** Workday is a cloud-based HRIS platform that provides HR, payroll, and financial management solutions for medium to large-sized businesses. The platform is known for its advanced features, ease of use, and scalability. Workday's software is designed to help businesses streamline their HR processes, improve data accuracy, and gain insights into their workforce.
 
 **Key features of Workday**
@@ -422,7 +440,7 @@ Cons:
 
 Workday does not publicly disclose its pricing information, and pricing is customized for each business based on their specific needs and requirements. However, the platform's pricing generally starts at $100 per user per year for its basic human capital management package, which includes features such as recruiting, onboarding, and performance management. The platform's payroll and financial management packages are priced separately. Workday also offers a free trial for new customers.
 
-### C﻿ustomer Feedback:
+## C﻿ustomer Feedback:
 
 * "Workday has been a game-changer for our enterprise, providing us with a single platform to manage our HR processes and data."
 * "Workday is an intuitive and easy-to-use system that has helped us improve our HR processes and gain valuable insights into our workforce."
