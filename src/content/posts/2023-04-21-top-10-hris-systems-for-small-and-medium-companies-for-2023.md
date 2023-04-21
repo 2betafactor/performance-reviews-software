@@ -7,7 +7,7 @@ description: With so many HRIS software options available, it can be
   overwhelming to find the right one for your specific needs. In this article,
   we've researched and reviewed the top 10 HRIS software solutions for 2023 that
   are best suited for small companies.
-featuredImage: /assets/performance-reviews-software-return-on-investment.png
+featuredImage: /assets/top-10-hris-systems-for-2023.jpg
 ---
 Welcome to our comprehensive guide on the top 10 HRIS software solutions for small companies. As a business owner or HR manager, you know how important it is to have a reliable and efficient system in place to manage your employee data, payroll, benefits, and other HR functions. 
 
