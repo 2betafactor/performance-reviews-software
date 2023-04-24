@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>Performance Reviews Software © </p>
+      <p>HR Tech Blog © 2023 All Rights Reserved </p>
     </div>
   </footer>
 )
