@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Top 10 HRIS Systems for 2023: A Comprehensive Overview and Analysis"
+title: "10 leading HRIS Systems for 2023: A Comprehensive Overview and Analysis"
 slug: /hris-software-for-small-medium-companies/
 date: 2023-04-21 10:48
 description: With so many HRIS software options available, it can be
