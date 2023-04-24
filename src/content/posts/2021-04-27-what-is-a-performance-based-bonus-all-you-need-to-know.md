@@ -28,7 +28,7 @@ For example, if the company sets a target bonus of 10%, and the employee’s sal
 
 ### 1. Decide if you want to offer a performance bonus.
 
-As an HR leader, you should decide if you want to offer a performance bonus. If you do, you should set goals for the company and then assess the performance of your employees.
+As an HR leader, you should decide if you want to offer a [performance bonus](https://www.performancereviewssoftware.com/cost-of-performance-management-software-in-2021/). If you do, you should set goals for the company and then assess the performance of your employees.
 
 ### 2. Set goals for employees.
 
