@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Performance Management System in 2023: Understanding the Value"
+title: "Performance Management Systems in 2023: Understanding the Value"
 slug: /cost-of-performance-management-software-in-2021/
 date: 2023-04-23 16:22
 description: Looking for the best performance management software in 2023?
