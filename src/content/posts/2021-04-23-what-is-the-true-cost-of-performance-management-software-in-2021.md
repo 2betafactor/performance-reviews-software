@@ -34,8 +34,6 @@ Lastly, [a performance management system can contribute to enhanced organization
 
 In conclusion, the ROI of a performance management system can be substantial for organizations. It can lead to improved employee performance and productivity, streamlined processes, reduced turnover and costs associated with poor performance, and enhanced organizational performance. By carefully evaluating the costs and benefits of a performance management system and selecting the right solution that aligns with organizational needs, organizations can optimize their performance management practices and drive better results.
 
-
-
 ## A﻿verage cost of a Performance Management System
 
 The average cost can vary greatly depending on several factors such as the size of the organization, the complexity of the system, the features and functionalities included, and the vendor or provider chosen. Generally, performance management systems can be categorized into three types: basic, mid-range, and advanced.
@@ -65,17 +63,13 @@ Here's a table showcasing the average cost of performance management systems for
 | 9. [Lattice](https://lattice.com/pricing/)                                                                | $8,000 - $20,000        |
 | 10. [PeopleGoal](https://www.peoplegoal.com/pricing)                                                      | $6,000 - $15,000        |
 
-
-
 Please note that the costs listed in the table are approximate and can vary depending on factors such as the size of the organization, the specific features and functionalities included in the package, and any additional services or integrations that may be required. It's always recommended to consult with the respective software vendors for accurate and up-to-date pricing information.
-
-
 
 ## What are some alternatives to performance management systems?
 
 Traditional performance management systems may not always be the best fit for every organization or may not align with their unique needs and culture. Fortunately, there are several alternative approaches to performance management that organizations can consider:
 
-**[Continuous Feedback and Coaching](https://books.google.co.uk/books?id=FaNaDgAAQBAJ&pg=PT64&lpg=PT64&dq=**Continuous+Feedback+and+Coaching**&source=bl&ots=sNUrI91Mm9&sig=ACfU3U2QFA8LXXOfS2E6EsWCKEIGUaN7DA&hl=en&sa=X&ved=2ahUKEwiv1IGh08L-AhUPYsAKHdd9ACU4ChDoAXoECBgQAw):** Instead of relying on annual or periodic performance reviews, organizations can adopt a culture of continuous feedback and coaching. This approach involves regular check-ins between managers and employees, ongoing feedback on performance, and coaching on skills development. This allows for timely recognition of achievements, identification of areas for improvement, and immediate course correction, leading to more agile and adaptive performance management practices.
+**[Continuous Feedback and Coaching](https://www.shrm.org/hr-today/news/hr-news/pages/story3.aspx):** Instead of relying on annual or periodic performance reviews, organizations can adopt a culture of continuous feedback and coaching. This approach involves regular check-ins between managers and employees, ongoing feedback on performance, and coaching on skills development. This allows for timely recognition of achievements, identification of areas for improvement, and immediate course correction, leading to more agile and adaptive performance management practices.
 
 **[Goal Setting and OKRs](https://www.youtube.com/watch?v=eToFhWEml10):** Another alternative to performance management systems is a goal-setting approach, often using Objectives and Key Results (OKRs). This approach involves setting clear and measurable objectives that align with organizational goals and regularly tracking progress towards these objectives. It encourages a results-oriented mindset, fosters accountability, and provides a framework for aligning individual and team efforts with organizational objectives.
 
