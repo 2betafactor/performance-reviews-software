@@ -152,7 +152,7 @@ Rippling HR offers a [per-employee-per-month pricing model](https://www.rippling
 * Applicant tracking: The platform allows businesses to post job openings, track candidates, and manage the hiring process from one location.
 * Time and attendance tracking: BambooHR's time tracking feature lets businesses track employee attendance and manage time off requests, approvals, and accruals.
 * Onboarding and offboarding: The platform provides a paperless onboarding process for new hires, including automated reminders and task tracking.
-* Reporting and analytics: BambooHR includes a range of standard reports and allows businesses to create custom reports using its Report Builder feature.
+* Reporting and analytics: BambooHR includes a range of standard reports and [allows businesses to create custom reports](https://www.performancereviewssoftware.com/cost-of-performance-management-software-in-2021/) using its Report Builder feature.
 * Mobile app: BambooHR offers a mobile app that allows employees and managers to access HR information and perform tasks on-the-go.
 
 **Pros and cons** 
