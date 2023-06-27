@@ -6,7 +6,7 @@ date: 2023-06-27 15:33
 description: Coaching is a methodology used to train, counsel, or instruct
   individuals or groups on developing skills to enhance productivity or overcome
   performance challenges.
-featuredImage: /assets/pexels-ivan-samkov-5676679.jpg
+featuredImage: /assets/coaching-1-on-1.jpg
 ---
 ## What is coaching
 
@@ -24,7 +24,7 @@ The coaching process encompasses the following steps:
 4. Taking action based on the insights gained through coaching.
 5. Refining and reflecting on the outcomes, learning, and experiences encountered during the coaching process.
 
-![](/assets/special-coaching-benefits.gif)
+   ![](/assets/special-coaching-benefits.gif)
 
 ## What are the different types of coaching
 
@@ -47,7 +47,7 @@ Coaching offers several benefits, including:
 
 In summary, coaching serves as a valuable tool for empowering individuals or groups to improve their performance, overcome obstacles, and reach their full potential.
 
-
+![](/assets/what-is-coaching.gif)
 
 ## W﻿hat is the difference between good coaching and bad coaching
 
