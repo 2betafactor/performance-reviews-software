@@ -24,7 +24,9 @@ The coaching process encompasses the following steps:
 4. Taking action based on the insights gained through coaching.
 5. Refining and reflecting on the outcomes, learning, and experiences encountered during the coaching process.
 
-   ![Coaching Benefits](/assets/special-coaching-benefits.gif)
+
+
+![](/assets/giphy.gif)
 
 ## What are the different types of coaching
 
