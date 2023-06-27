@@ -6,14 +6,13 @@ date: 2023-06-27 15:33
 description: Coaching is a methodology used to train, counsel, or instruct
   individuals or groups on developing skills to enhance productivity or overcome
   performance challenges.
+featuredImage: /assets/pexels-ivan-samkov-5676679.jpg
 ---
 ## What is coaching
 
 Coaching is a methodology used to train, counsel, or instruct individuals or groups on developing skills to enhance productivity or overcome performance challenges. In this process, a supervisor takes on the role of a coach, while the learner is referred to as the coachee.
 
 Coaching involves various methods and models that emphasize close observation, accountability, and providing feedback on progress and performance.
-
-
 
 ## What is the coaching process
 
@@ -25,7 +24,7 @@ The coaching process encompasses the following steps:
 4. Taking action based on the insights gained through coaching.
 5. Refining and reflecting on the outcomes, learning, and experiences encountered during the coaching process.
 
-![](https://giphy.com/embed/1n833bZxdzKzaErLe9 "What are the different types of coaching")
+![](/assets/special-coaching-benefits.gif "What are the different types of coaching")
 
 ## What are the different types of coaching
 
@@ -33,8 +32,6 @@ There are two main types of coaching:
 
 1. Internal coaching: This occurs within an organization, where a manager assumes the role of a coach for a team they are already familiar with.
 2. External coaching: In this approach, the coach is not part of the organization or its line management structure but possesses expertise in the relevant field for which coaching is being provided.
-
-
 
 ## W﻿hat benefits coaching offers
 
@@ -50,7 +47,7 @@ Coaching offers several benefits, including:
 
 In summary, coaching serves as a valuable tool for empowering individuals or groups to improve their performance, overcome obstacles, and reach their full potential.
 
-![https://giphy.com/embed/f6JCktQrrPuP0nUjRN]( "W﻿hat is the difference between good coaching and bad coaching")
+![](/assets/what-is-coaching.gif "W﻿hat benefits coaching offers")
 
 ## W﻿hat is the difference between good coaching and bad coaching
 
