@@ -22,9 +22,10 @@ The coaching process encompasses the following steps:
 2. Exploring ideas and possibilities to tackle the identified topic or issue.
 3. Removing barriers that may hinder progress or success.
 4. Taking action based on the insights gained through coaching.
-5. Refining and reflecting on the outcomes, learning, and experiences encountered during the coaching process.
 
-![](/assets/giphy.gif)
+Refining and reflecting on the outcomes, learning, and experiences encountered during the coaching process.
+
+![](/assets/what-is-a-coaching-process.png)
 
 ## What are the different types of coaching
 
@@ -46,8 +47,6 @@ Coaching offers several benefits, including:
 * Identifying and clarifying goals for personal or professional growth.
 
 In summary, coaching serves as a valuable tool for empowering individuals or groups to improve their performance, overcome obstacles, and reach their full potential.
-
-![](/assets/what-is-a-coaching-process.png)
 
 ## W﻿hat is the difference between good coaching and bad coaching
 
