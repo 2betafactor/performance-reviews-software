@@ -181,7 +181,7 @@ Organizations can ensure the effectiveness of 360 degree feedback by providing p
 
 - - -
 
-W﻿ritten by Sarah Thompson*👩
+### W﻿ritten by Sarah Thompson👩
 
 ![](/assets/sarah-performance-reviews-software.png)
 
