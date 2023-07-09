@@ -58,6 +58,8 @@ Good coaching: Good coaching is characterized by several key factors that contri
 4. Skillful questioning: A good coach asks thought-provoking questions to encourage reflection, stimulate critical thinking, and deepen self-awareness. They guide the coachee to discover insights and solutions on their own.
 5. [Feedback and support](https://www.performancereviewssoftware.com/top-interview-questions-to-ask-your-candidates/): A good coach provides constructive feedback to the coachee, highlighting strengths and areas for improvement. They offer encouragement, support, and accountability throughout the coaching journey.
 
+   ![](/assets/what-is-the-difference-between-good-coaching-and-bad-coaching.png)
+
 Bad coaching: Conversely, bad coaching may lack the necessary qualities and approach needed for a productive coaching experience:
 
 1. Lack of trust and rapport: A bad coach fails to establish a trusting relationship with the coachee, hindering open and honest communication.
