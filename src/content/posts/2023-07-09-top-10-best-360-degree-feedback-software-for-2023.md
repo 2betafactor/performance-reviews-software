@@ -15,60 +15,76 @@ In today's competitive business landscape, organizations are increasingly turnin
 ![](/assets/marathon_lockup.png)
 
 * Pros: Improves overall efficiency between performance reviews, employee engagement, and talent development.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: Limited customization options for the feedback process.
 * Pricing: [Trakstar Pricing](https://www.trakstar.com/pricing)
 * Website: [Trakstar](https://www.trakstar.com/)
 
 ## PerformYard
 
+![](/assets/performyard.png)
+
 * Pros: Customizable and flexible software to build out your perfect 360-degree feedback process.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: The interface can be overwhelming for new users.
 * Pricing: [PerformYard Contact](https://www.performyard.com/contact-us)
 * Website: [PerformYard](https://www.performyard.com/)
 
 ## Primalogik
 
+![](/assets/primalogik-logo.png)
+
 * Pros: Customizable 360-degree feedback software with additional tools for deeper performance analysis and continuous feedback.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: Advanced features may require additional training to fully utilize.
 * Pricing: [Primalogik Pricing](https://www.primalogik.com/pricing)
 * Website: [Primalogik](https://www.primalogik.com/)
 
 ## ClearCompany
 
+![](/assets/clearcompany.png)
+
 * Pros: Best automated 360-degree feedback software for analyzing peer reviews and feedback.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: Some users find the reporting capabilities to be less robust compared to other platforms.
 * Pricing: [ClearCompany Contact](https://www.clearcompany.com/request-a-demo)
 * Website: [ClearCompany](https://www.clearcompany.com/)
 
 ## Qualtrics 360
 
+![](/assets/qualtrics_logo.png)
+
 * Pros: Comprehensive feedback platform with a user-friendly interface and advanced analytics.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: The learning curve for using the platform effectively can be steep.
 * Pricing: [Qualtrics 360 Pricing](https://www.qualtrics.com/360-degree-feedback/pricing/)
 * Website: [Qualtrics 360](https://www.qualtrics.com/360-degree-feedback/)
 
 ## Spidergap
 
+![](/assets/spidergap-1671677510-logo.png)
+
 * Pros: User-friendly 360-degree feedback tool with comprehensive reporting and development tracking.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: Integration options with other HR tools may be limited.
 * Pricing: [Spidergap Pricing](https://www.spidergap.com/pricing/)
 * Website: [Spidergap](https://www.spidergap.com/)
 
 ## EchoSpan
 
+![](/assets/es_logo_hi.jpg)
+
 * Pros: Feature-rich 360-degree feedback software with flexible assessment options and comprehensive reporting.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: The user interface could benefit from a more modern and intuitive design.
 * Pricing: [EchoSpan Contact](https://www.echospan.com/contact-us)
 * Website: [EchoSpan](https://www.echospan.com/)
 
 ## BambooHR
 
+![](/assets/2560px-bamboohr_logo.svg.png)
+
 * Pros: HR software that includes a 360-degree feedback feature, enabling organizations to gather feedback and assess competencies.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: The 360-degree feedback feature may lack some advanced customization options.
 * Pricing: [BambooHR Pricing](https://www.bamboohr.com/pricing/)
 * Website: [BambooHR](https://www.bamboohr.com/)
 
 ## PeopleGoal
+
+![](/assets/peoplegoal.png)
 
 * Pros: Comprehensive performance management software with 360-degree feedback capabilities.
 * Cons: Detailed pricing information not provided in the public domain.
@@ -77,8 +93,10 @@ In today's competitive business landscape, organizations are increasingly turnin
 
 ## Engagely
 
+![](/assets/engagely-ai.png)
+
 * Pros: Employee engagement and performance management software with 360-degree feedback functionality.
-* Cons: Detailed pricing information not provided in the public domain.
+* Cons: The software may lack certain advanced features offered by competitors.
 * Pricing: [Engagely Contact](https://www.engagely.io/contact-us)
 * Website: [Engagely](https://www.engagely.io/)
 
