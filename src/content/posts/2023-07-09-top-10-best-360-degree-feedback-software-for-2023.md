@@ -104,8 +104,6 @@ These software solutions offer various features such as customizable assessment 
 
 Please note that the logos are subject to change, and you should verify the logo URLs from the respective websites if you require the most up-to-date versions.
 
-
-
 ## W﻿hat are the benefits of running a 360 degree feedback process?
 
 Here's a list of benefits of running a 360 degree feedback process:
@@ -179,9 +177,11 @@ Organizations can ensure the effectiveness of 360 degree feedback by providing p
 
 [What is organizational development? Structure and process](https://www.performancereviewssoftware.com/what-is-organizational-development/)
 
-[](https://www.performancereviewssoftware.com/what-is-organizational-development/)
+[](https://www.performancereviewssoftware.com/cost-of-performance-management-software-in-2021/)
 
-### [](https://www.performancereviewssoftware.com/performance-reviews-tips-for-2021/)[](https://www.performancereviewssoftware.com/hris-human-resources-information-system/)*[](https://www.performancereviewssoftware.com/cost-of-performance-management-software-in-2021/)W﻿ritten by Sarah Thompson*👩
+- - -
+
+W﻿ritten by Sarah Thompson*👩
 
 ![](/assets/sarah-performance-reviews-software.png)
 
