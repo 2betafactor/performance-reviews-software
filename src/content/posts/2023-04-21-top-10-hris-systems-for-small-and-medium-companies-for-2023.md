@@ -474,3 +474,11 @@ In conclusion, choosing the right HRIS system for your small or medium-sized bus
 The top 10 HRIS systems we've explored - Gusto, Zenefits, Rippling HR, BambooHR, Namely, ADP Workforce Now, Paycor, Paychex Flex, Sage HR, and Workday - are all excellent options that offer a range of features, benefits, and pricing options. Each of these systems has its own unique strengths and weaknesses, and it's important to carefully evaluate each one based on your business's specific needs and requirements.
 
 Ultimately, the best HRIS system for your business will depend on a variety of factors, including the size of your company, the number of employees you have, the industry you operate in, and your budget. By considering these factors and thoroughly researching each HRIS system on the market, you can make an informed decision that will benefit your business for years to come.
+
+---
+
+### *W﻿ritten by Sarah Thompson*👩
+
+![](/assets/sarah-performance-reviews-software.png)
+
+*Sarah is a highly experienced HR writer and consultant with over 15 years of industry expertise. Known for her ability to simplify complex HR concepts, Sarah provides clear and concise content that empowers organizations to develop effective people strategies. With a strong background in talent acquisition, employee engagement, performance management, and HR policy design, she offers tailored recommendations and practical solutions to optimize organizational effectiveness. Sarah's thought leadership, published articles, and consulting work have made her a respected figure in the HR community. Her passion for mentoring aspiring HR professionals and giving back to the community reflects her commitment to workforce development and empowerment.*
