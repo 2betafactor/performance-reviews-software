@@ -477,7 +477,7 @@ Ultimately, the best HRIS system for your business will depend on a variety of f
 
 ---
 
-### *W﻿ritten by Sarah Thompson*👩
+### W﻿ritten by Sarah Thompson👩
 
 ![](/assets/sarah-performance-reviews-software.png)
 
