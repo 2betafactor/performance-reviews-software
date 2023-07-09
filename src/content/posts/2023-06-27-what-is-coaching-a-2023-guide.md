@@ -86,3 +86,11 @@ H﻿ere are some good tips that can lead to good coaching
 10. [Foster ongoing learning and reflection](https://www.performancereviewssoftware.com/performance-review-remote-best/): Encourage the coachee to reflect on their progress, lessons learned, and insights gained from the coaching experience. Support them in integrating new skills and behaviors into their daily lives beyond the coaching relationship.
 
 Remember, effective coaching is a [dynamic process](https://www.performancereviewssoftware.com/performance-review-improvements/) that requires adaptability and responsiveness to the unique needs of each coachee. By incorporating these tips into your coaching practice, you can create a nurturing and empowering environment for growth and development.
+
+
+
+### *W﻿ritten by Sarah Thompson*👩
+
+![](/assets/sarah-performance-reviews-software.png)
+
+*Sarah is a highly experienced HR writer and consultant with over 15 years of industry expertise. Known for her ability to simplify complex HR concepts, Sarah provides clear and concise content that empowers organizations to develop effective people strategies. With a strong background in talent acquisition, employee engagement, performance management, and HR policy design, she offers tailored recommendations and practical solutions to optimize organizational effectiveness. Sarah's thought leadership, published articles, and consulting work have made her a respected figure in the HR community. Her passion for mentoring aspiring HR professionals and giving back to the community reflects her commitment to workforce development and empowerment.*
