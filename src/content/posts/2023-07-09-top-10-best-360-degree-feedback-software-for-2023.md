@@ -10,22 +10,87 @@ featuredImage: /assets/best-360-degree-feedback-software.png
 ---
 In today's competitive business landscape, organizations are increasingly turning to 360 degree feedback software to drive performance, enhance employee development, and foster a culture of continuous improvement. These software solutions streamline the feedback collection and analysis process, providing valuable insights from multiple perspectives. Here are the top 10 360 degree feedback software options available:
 
-| Software      | Pros                                                                                                                           | Cons                                                               | Pricing                                                                         |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| Trakstar      | \- Improves overall efficiency between performance reviews, employee engagement, and talent development.                       | \- Detailed pricing information not provided in the public domain. | [Trakstar Pricing](https://www.trakstar.com/pricing)                            |
-| PerformYard   | \- Customizable and flexible software to build out your perfect 360 degree feedback process.                                   | \- Detailed pricing information not provided in the public domain. | [PerformYard Contact](https://www.performyard.com/contact-us)                   |
-| Primalogik    | \- Customizable 360 degree feedback software with additional tools for deeper performance analysis and continuous feedback.    | \- Detailed pricing information not provided in the public domain. | [Primalogik Pricing](https://www.primalogik.com/pricing)                        |
-| ClearCompany  | \- Best automated 360 degree feedback software for analyzing peer reviews and feedback.                                        | \- Detailed pricing information not provided in the public domain. | [ClearCompany Contact](https://www.clearcompany.com/request-a-demo)             |
-| Qualtrics 360 | \- Comprehensive feedback platform with a user-friendly interface and advanced analytics.                                      | \- Detailed pricing information not provided in the public domain. | [Qualtrics 360 Pricing](https://www.qualtrics.com/360-degree-feedback/pricing/) |
-| Spidergap     | \- User-friendly 360 degree feedback tool with comprehensive reporting and development tracking.                               | \- Detailed pricing information not provided in the public domain. | [Spidergap Pricing](https://www.spidergap.com/pricing/)                         |
-| EchoSpan      | \- Feature-rich 360 degree feedback software with flexible assessment options and comprehensive reporting.                     | \- Detailed pricing information not provided in the public domain. | [EchoSpan Contact](https://www.echospan.com/contact-us)                         |
-| BambooHR      | \- HR software that includes a 360 degree feedback feature, enabling organizations to gather feedback and assess competencies. | \- Detailed pricing information not provided in the public domain. | [BambooHR Pricing](https://www.bamboohr.com/pricing/)                           |
-| PeopleGoal    | \- Comprehensive performance management software with 360 degree feedback capabilities.                                        | \- Detailed pricing information not provided in the public domain. | [PeopleGoal Contact](https://www.peoplegoal.com/contact-us)                     |
-| Engagely      | \- Employee engagement and performance management software with 360 degree feedback functionality.                             | \- Detailed pricing information not provided in the public domain. | [Engagely Contact](https://www.engagely.io/contact-us)                          |
+## Trakstar
 
+![](/assets/marathon_lockup.png)
 
+* Pros: Improves overall efficiency between performance reviews, employee engagement, and talent development.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [Trakstar Pricing](https://www.trakstar.com/pricing)
+* Website: [Trakstar](https://www.trakstar.com/)
+
+## PerformYard
+
+![](/assets/63cf052729a0ab550da897a5_performyard-logo_min.svg)
+
+* Pros: Customizable and flexible software to build out your perfect 360-degree feedback process.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [PerformYard Contact](https://www.performyard.com/contact-us)
+* Website: [PerformYard](https://www.performyard.com/)
+
+## Primalogik
+
+![](/assets/primalogik-logo.svg)
+
+* Pros: Customizable 360-degree feedback software with additional tools for deeper performance analysis and continuous feedback.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [Primalogik Pricing](https://www.primalogik.com/pricing)
+* Website: [Primalogik](https://www.primalogik.com/)
+
+## ClearCompany
+
+* Pros: Best automated 360-degree feedback software for analyzing peer reviews and feedback.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [ClearCompany Contact](https://www.clearcompany.com/request-a-demo)
+* Website: [ClearCompany](https://www.clearcompany.com/)
+
+## Qualtrics 360
+
+* Pros: Comprehensive feedback platform with a user-friendly interface and advanced analytics.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [Qualtrics 360 Pricing](https://www.qualtrics.com/360-degree-feedback/pricing/)
+* Website: [Qualtrics 360](https://www.qualtrics.com/360-degree-feedback/)
+
+## Spidergap
+
+* Pros: User-friendly 360-degree feedback tool with comprehensive reporting and development tracking.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [Spidergap Pricing](https://www.spidergap.com/pricing/)
+* Website: [Spidergap](https://www.spidergap.com/)
+
+## EchoSpan
+
+* Pros: Feature-rich 360-degree feedback software with flexible assessment options and comprehensive reporting.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [EchoSpan Contact](https://www.echospan.com/contact-us)
+* Website: [EchoSpan](https://www.echospan.com/)
+
+## BambooHR
+
+* Pros: HR software that includes a 360-degree feedback feature, enabling organizations to gather feedback and assess competencies.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [BambooHR Pricing](https://www.bamboohr.com/pricing/)
+* Website: [BambooHR](https://www.bamboohr.com/)
+
+## PeopleGoal
+
+* Pros: Comprehensive performance management software with 360-degree feedback capabilities.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [PeopleGoal Contact](https://www.peoplegoal.com/contact-us)
+* Website: [PeopleGoal](https://www.peoplegoal.com/)
+
+## Engagely
+
+* Pros: Employee engagement and performance management software with 360-degree feedback functionality.
+* Cons: Detailed pricing information not provided in the public domain.
+* Pricing: [Engagely Contact](https://www.engagely.io/contact-us)
+* Website: [Engagely](https://www.engagely.io/)
 
 These software solutions offer various features such as customizable assessment templates, real-time analytics, performance tracking, and comprehensive reporting. Evaluate your organization's specific requirements and budget, and choose the software that aligns best with your goals and culture. The right 360 degree feedback software can play a crucial role in driving performance, improving employee engagement, and fostering continuous growth within your organization.
+
+Please note that the logos are subject to change, and you should verify the logo URLs from the respective websites if you require the most up-to-date versions.
+
+<!--EndFragment-->
 
 ## W﻿hat are the benefits of running a 360-degree feedback process?
 
@@ -43,8 +108,6 @@ Here's a list of benefits of running a 360-degree feedback process:
 10. **Engagement and Retention**: Providing employees with the opportunity to participate in the feedback process demonstrates a commitment to their development and growth. This, in turn, enhances employee engagement and satisfaction, leading to increased retention rates.
 
 Implementing a 360-degree feedback process can have a profound impact on individual growth, team dynamics, and overall organizational performance. It provides a well-rounded perspective, promotes self-awareness, and fosters a culture of continuous learning and improvement.
-
-
 
 ## Frequently asked questions (FAQs) about 360-degree employee feedback
 
