@@ -12,3 +12,5 @@ Through our blog, we cover a wide range of HR technology topics, from talent man
 We understand that HR technology can be complex and overwhelming, and that's why we strive to make our content easy to understand and accessible to everyone. Our team has a knack for breaking down complex concepts into simple, digestible pieces, and we always aim to provide actionable takeaways that our readers can implement in their organizations.
 
 We are passionate about HR technology, and we hope that our blog will inspire and empower HR professionals to leverage the latest tools and solutions to drive business success. Thank you for visiting our blog, and we look forward to sharing our expertise with you!
+
+![](/assets/pexels-ivan-samkov-5676679.jpg)
