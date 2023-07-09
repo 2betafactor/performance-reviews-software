@@ -87,9 +87,9 @@ H﻿ere are some good tips that can lead to good coaching
 
 Remember, effective coaching is a [dynamic process](https://www.performancereviewssoftware.com/performance-review-improvements/) that requires adaptability and responsiveness to the unique needs of each coachee. By incorporating these tips into your coaching practice, you can create a nurturing and empowering environment for growth and development.
 
------------------------------
+- - -
 
-### *W﻿ritten by Sarah Thompson*👩
+### W﻿ritten by Sarah Thompson👩
 
 ![](/assets/sarah-performance-reviews-software.png)
 
