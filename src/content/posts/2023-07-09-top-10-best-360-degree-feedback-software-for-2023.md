@@ -21,16 +21,12 @@ In today's competitive business landscape, organizations are increasingly turnin
 
 ## PerformYard
 
-![](/assets/63cf052729a0ab550da897a5_performyard-logo_min.svg)
-
 * Pros: Customizable and flexible software to build out your perfect 360-degree feedback process.
 * Cons: Detailed pricing information not provided in the public domain.
 * Pricing: [PerformYard Contact](https://www.performyard.com/contact-us)
 * Website: [PerformYard](https://www.performyard.com/)
 
 ## Primalogik
-
-![](/assets/primalogik-logo.svg)
 
 * Pros: Customizable 360-degree feedback software with additional tools for deeper performance analysis and continuous feedback.
 * Cons: Detailed pricing information not provided in the public domain.
