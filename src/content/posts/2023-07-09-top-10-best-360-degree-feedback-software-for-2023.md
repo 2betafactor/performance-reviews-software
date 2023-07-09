@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Top 10 Best 360 Degree Feedback Software for 2023
-slug: best-360-degree-feedback-software
+slug: /best-360-degree-feedback-software/
 date: 2023-07-09 16:41
 description: Discover the top 10 360-degree feedback software providers for
   enhanced performance. Gain valuable insights from multiple perspectives to
