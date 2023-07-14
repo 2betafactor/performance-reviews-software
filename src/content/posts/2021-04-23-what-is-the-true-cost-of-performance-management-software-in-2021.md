@@ -94,11 +94,10 @@ As performance management continues to be a critical aspect of organizational su
 Performance management software offers numerous benefits, including improved performance, simplified processes, and data-driven insights, making it a valuable investment for organizations.
 By carefully evaluating the costs and benefits of performance management software and selecting the right solution that aligns with organizational needs, organizations can optimize their performance management practices and drive better results.
 
-
-----------------------------------------
+- - -
 
 ### *W﻿ritten by Sarah Thompson*👩
 
-![](/assets/sarah-performance-reviews-software.png)
+![](/assets/sarah-thompson.png)
 
 *Sarah is a highly experienced HR writer and consultant with over 15 years of industry expertise. Known for her ability to simplify complex HR concepts, Sarah provides clear and concise content that empowers organizations to develop effective people strategies. With a strong background in talent acquisition, employee engagement, performance management, and HR policy design, she offers tailored recommendations and practical solutions to optimize organizational effectiveness. Sarah's thought leadership, published articles, and consulting work have made her a respected figure in the HR community. Her passion for mentoring aspiring HR professionals and giving back to the community reflects her commitment to workforce development and empowerment.*
