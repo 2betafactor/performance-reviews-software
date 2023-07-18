@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "What is coaching: A 2023 guide"
-slug: /what-is-coaching
+slug: /what-is-coaching-individual-or-team/
 date: 2023-06-27 15:33
 description: Coaching is a methodology used to train, counsel, or instruct
   individuals or groups on developing skills to enhance productivity or overcome
