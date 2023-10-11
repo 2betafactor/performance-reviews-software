@@ -112,7 +112,3 @@ Armed with insights into the realm of Employer of Record software, it's time to 
 ### W﻿ritten by Sarah Thompson👩
 
 *Sarah is a highly experienced HR writer and consultant with over 15 years of industry expertise. Known for her ability to simplify complex HR concepts, Sarah provides clear and concise content that empowers organizations to develop effective people strategies. With a strong background in talent acquisition, employee engagement, performance management, and HR policy design, she offers tailored recommendations and practical solutions to optimize organizational effectiveness. Sarah's thought leadership, published articles, and consulting work have made her a respected figure in the HR community. Her passion for mentoring aspiring HR professionals and giving back to the community reflects her commitment to workforce development and empowerment.*
-
-
-
-<!DOCTYPE html> <html> <head> <title>Your Web Page</title> <style> /* Styling for the banner */ .banner { background-color: #0073e6; /* Banner background color */ color: white; /* Text color */ text-align: center; /* Center-align the text */ padding: 10px 0; /* Padding for top and bottom spacing */ position: fixed; /* Fixed positioning at the bottom */ left: 0; bottom: 0; width: 100%; /* Full width of the page */ } </style> </head> <body> <!-- Your webpage content goes here --> <!-- Banner for the eNPS survey app --> <div class="banner"> <p>Check out our new eNPS survey app</p> </div> </body>
