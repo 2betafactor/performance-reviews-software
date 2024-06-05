@@ -15,7 +15,7 @@ Based on our 20 years of experience in HR, I’ve reviewed and evaluated the bes
 
 ## Top 10 Employee Evaluation Software Picks
 
-Here’s a list of the best software from the 20 tools reviewed.
+Here’s a list of the best software from the 40 tools reviewed.
 
 1. **PeopleGoal** — [Best for comprehensive performance management](https://www.peoplegoal.com)
 2. **Deel** — [Best for continuous one-on-one feedback](https://www.deel.com)
