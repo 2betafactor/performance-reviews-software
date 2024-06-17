@@ -26,7 +26,7 @@ Overtime refers to the additional pay that employees receive for working beyond 
 2. **Risk of Burnout:** Regular overtime can lead to employee fatigue, reducing overall productivity and increasing turnover.
 3. **Complex Tax Implications:** Additional earnings can push employees into higher tax brackets, complicating payroll.
 
-For more insights on performance management systems, check out this [guide on performance management systems in 2023](https://www.performancereviewssoftware.com/performance-management-systems-2023).
+For more insights on performance management systems, check out this [guide on performance management systems in 2023](https://www.performancereviewssoftware.com/best-performance-reviews-software/).
 
 ## What is Time in Lieu?
 
@@ -67,7 +67,7 @@ Many organizations find that a hybrid approach, offering both overtime and time 
 1. **Eligibility:** Define which employees are eligible for overtime pay and time in lieu.
 2. **Accrual Rates:** Clearly state the rates for overtime pay and time in lieu accrual.
 3. **Request and Approval Process:** Establish a streamlined process for employees to request and managers to approve either option.
-4. **Tracking System:** Implement a reliable system to record hours worked and monitor both overtime pay and accrued time in lieu. Consider exploring [performance reviews software](https://www.performancereviewssoftware.com/10-great-performance-reviews-software-2024) for tools that can help.
+4. **Tracking System:** Implement a reliable system to record hours worked and monitor both overtime pay and accrued time in lieu. Consider exploring [performance reviews software](https://www.performancereviewssoftware.com/best-performance-reviews-software/) for tools that can help.
 
 ## FAQs about Overtime and Time in Lieu
 
@@ -75,7 +75,7 @@ Many organizations find that a hybrid approach, offering both overtime and time 
 Overtime provides extra pay for additional hours worked, while time in lieu offers equivalent time off instead of pay.
 
 ### How should employers track overtime and time in lieu?
-Employers should use a robust tracking system, either manual or software-based, to log extra hours and manage time off requests. Check out this [guide to top 360-degree feedback software](https://www.performancereviewssoftware.com/10-best-360-degree-feedback-software-2023).
+Employers should use a robust tracking system, either manual or software-based, to log extra hours and manage time off requests. Check out this [guide to top 360-degree feedback software](https://www.performancereviewssoftware.com/10-best-360-degree-feedback-software-2023/).
 
 ### Can employees choose between overtime and time in lieu?
 This depends on company policy. Some organizations allow employees to choose, while others may mandate one option based on operational needs.
