@@ -28,20 +28,103 @@ Succession planning is a strategic process designed to identify and develop futu
 
 As an HR specialist, I’ve reviewed and evaluated the top succession planning software to shortlist the best tools to uncover top talent within your organization to develop as future leaders. Here are my picks for the 10 best succession planning software:
 
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Software</th>
+            <th>Best For</th>
+            <th>Pricing</th>
+            <th>Rating</th>
+            <th>Pros</th>
+            <th>Cons</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://www.deel.com">Deel</a></td>
+            <td>AI-powered career progression frameworks</td>
+            <td>Free version available</td>
+            <td>4.8/5</td>
+            <td>AI-driven insights, Integration with multiple HR systems</td>
+            <td>Limited to organizations with up to 200 employees for free version</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.lattice.com">Lattice</a></td>
+            <td>Performance, growth, goals, and compensation</td>
+            <td>From $11/user/month</td>
+            <td>4.7/5</td>
+            <td>Comprehensive management in one place, Customizable performance reviews</td>
+            <td>Higher cost for full suite, Steeper learning curve</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.qooper.io">Qooper</a></td>
+            <td>Mentor matching platform</td>
+            <td>Pricing upon request</td>
+            <td>4.6/5</td>
+            <td>Strong mentorship tools, Flexible learning plans</td>
+            <td>Custom pricing can be a barrier, Limited public information</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.performyard.com">PerformYard</a></td>
+            <td>Streamlined performance management</td>
+            <td>From $5-$10/user/month</td>
+            <td>4.8/5</td>
+            <td>Customizable performance tools, Excellent customer support</td>
+            <td>Limited advanced features, May require integrations for full functionality</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.mentorcliq.com">MentorcliQ</a></td>
+            <td>Pairing employees with mentors</td>
+            <td>Pricing upon request</td>
+            <td>4.8/5</td>
+            <td>Advanced mentor matching, Comprehensive analytics</td>
+            <td>Custom pricing, Setup may require time</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.paycor.com">Paycor</a></td>
+            <td>Performance, compensation, and learning management</td>
+            <td>From $5/employee/month + $99/month base fee</td>
+            <td>4.1/5</td>
+            <td>Comprehensive HCM system, Extensive features</td>
+            <td>Base fee can be high for small businesses, User interface can be complex</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.cornerstoneondemand.com">Cornerstone OnDemand</a></td>
+            <td>Workforce planning features</td>
+            <td>Pricing upon request</td>
+            <td>4.2/5</td>
+            <td>Advanced workforce planning, Data-driven insights</td>
+            <td>Higher cost, Requires thorough training</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.ingentis.com">Ingentis org.manager</a></td>
+            <td>Charting and scenario modeling</td>
+            <td>Pricing upon request</td>
+            <td>4.7/5</td>
+            <td>Powerful data visualization, Custom configurations</td>
+            <td>High cost, May need IT support for setup</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.peoplefluent.com">PeopleFluent</a></td>
+            <td>Built-in learning management system</td>
+            <td>Pricing upon request</td>
+            <td>3.9/5</td>
+            <td>Flexible succession tools, Integrated learning management</td>
+            <td>Lower user ratings, Complex implementation</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.sap.com">SAP SuccessFactors</a></td>
+            <td>Enterprise-level succession planning</td>
+            <td>Pricing upon request</td>
+            <td>3.8/5</td>
+            <td>Comprehensive enterprise solution, Strong assessment tools</td>
+            <td>High cost, Can be overwhelming for smaller organizations</td>
+        </tr>
+    </tbody>
+</table>
 
 
-| Software                                                    | Best For                                           | Pricing                                     | Rating | Pros                                                                    | Cons                                                                       |
-| ----------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------- | ------ | ----------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Deel](https://www.deel.com)                                | AI-powered career progression frameworks           | Free version available                      | 4.8/5  | AI-driven insights, Integration with multiple HR systems                | Limited to organizations with up to 200 employees for free version         |
-| [Lattice](https://www.lattice.com)                          | Performance, growth, goals, and compensation       | From $11/user/month                         | 4.7/5  | Comprehensive management in one place, Customizable performance reviews | Higher cost for full suite, Steeper learning curve                         |
-| [Qooper](https://www.qooper.io)                             | Mentor matching platform                           | Pricing upon request                        | 4.6/5  | Strong mentorship tools, Flexible learning plans                        | Custom pricing can be a barrier, Limited public information                |
-| [PerformYard](https://www.performyard.com)                  | Streamlined performance management                 | From $5-$10/user/month                      | 4.8/5  | Customizable performance tools, Excellent customer support              | Limited advanced features, May require integrations for full functionality |
-| [MentorcliQ](https://www.mentorcliq.com)                    | Pairing employees with mentors                     | Pricing upon request                        | 4.8/5  | Advanced mentor matching, Comprehensive analytics                       | Custom pricing, Setup may require time                                     |
-| [Paycor](https://www.paycor.com)                            | Performance, compensation, and learning management | From $5/employee/month + $99/month base fee | 4.1/5  | Comprehensive HCM system, Extensive features                            | Base fee can be high for small businesses, User interface can be complex   |
-| [Cornerstone OnDemand](https://www.cornerstoneondemand.com) | Workforce planning features                        | Pricing upon request                        | 4.2/5  | Advanced workforce planning, Data-driven insights                       | Higher cost, Requires thorough training                                    |
-| [Ingentis org.manager](https://www.ingentis.com)            | Charting and scenario modeling                     | Pricing upon request                        | 4.7/5  | Powerful data visualization, Custom configurations                      | High cost, May need IT support for setup                                   |
-| [PeopleFluent](https://www.peoplefluent.com)                | Built-in learning management system                | Pricing upon request                        | 3.9/5  | Flexible succession tools, Integrated learning management               | Lower user ratings, Complex implementation                                 |
-| [SAP SuccessFactors](https://www.sap.com)                   | Enterprise-level succession planning               | Pricing upon request                        | 3.8/5  | Comprehensive enterprise solution, Strong assessment tools              | High cost, Can be overwhelming for smaller organizations                   |
+
 
 ## Why Use Succession Planning Software?
 
